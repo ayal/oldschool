@@ -38,7 +38,7 @@ const getFeaturedImage = async (id) => {
     }
     const image = await response.json();
     const imagePath = `./public/blog-images/${image.id}.jpg`;
-    await downloadImage(image.source_url, imagePath);
+    // await downloadImage(image.source_url, imagePath);
     console.log(`Fetched featured image from the API: ${image.source_url}`, imagePath);
     return `/oldschool/blog-images/${image.id}.jpg`;
 }
@@ -72,7 +72,7 @@ const getFeaturedImage = async (id) => {
             const content = post.content.rendered;
 
             // rest of json fields should be added to the astro header:
-            const jsonFields = Object.keys(post).filter(field => {
+            /*const jsonFields = Object.keys(post).filter(field => {
                 return ![ 'title', 'excerpt', 'date', 'featured_media', 'content', '_links'].includes(field);
             });
             const jsonFieldsAndValues = jsonFields.map(field => {
@@ -90,10 +90,26 @@ const getFeaturedImage = async (id) => {
                 '---',
                 '',
                 content
+            ].join('\n');*/
+
+            const markdownContent = [
+                '---',
+                JSON.stringify({
+                    ...post,
+                    content: undefined,
+                    excerpt: undefined,
+                    title,
+                    description,
+                    pubDate,
+                    heroImage
+                }, null, 2),
+                '---',
+                '',
+                content
             ].join('\n');
 
             // Define the file name
-            const fileName = `${outputDir}/${post.slug || `post-${post.id}`}.mdx`;
+            const fileName = `${outputDir}/${post.slug || `post-${post.id}`}.md`;
 
             // Write the markdown file
             fs.writeFileSync(fileName, markdownContent.trim());

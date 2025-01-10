@@ -1,0 +1,274 @@
+---
+{
+  "id": 2487,
+  "date": "2015-11-17T11:03:23",
+  "date_gmt": "2015-11-17T11:03:23",
+  "guid": {
+    "rendered": "http://thenuschool.com/?p=2487"
+  },
+  "modified": "2015-11-17T11:09:26",
+  "modified_gmt": "2015-11-17T11:09:26",
+  "slug": "how-to-sell-without-selling",
+  "status": "publish",
+  "type": "post",
+  "link": "https://thenuschool.com/how-to-sell-without-selling/",
+  "title": "How to Sell Without Selling",
+  "author": 2,
+  "featured_media": 2498,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    2,
+    225,
+    412,
+    121
+  ],
+  "tags": [
+    336,
+    39,
+    86,
+    34,
+    461,
+    335,
+    337,
+    334,
+    462
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://thenuschool.com/wp-json/wp/v2/posts/2487"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://thenuschool.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://thenuschool.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://thenuschool.com/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://thenuschool.com/wp-json/wp/v2/comments?post=2487"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://thenuschool.com/wp-json/wp/v2/posts/2487/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2501,
+        "href": "https://thenuschool.com/wp-json/wp/v2/posts/2487/revisions/2501"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://thenuschool.com/wp-json/wp/v2/media/2498"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://thenuschool.com/wp-json/wp/v2/media?parent=2487"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://thenuschool.com/wp-json/wp/v2/categories?post=2487"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://thenuschool.com/wp-json/wp/v2/tags?post=2487"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "description": "My girlfriend, Marisa, is a few months into her new career as a freelance copywriter and editor. She has a literature degree1 and hundreds of thousands of words under her belt. She’s written for large publications. She’s created an information product and the marketing to go with it. I’m telling you this to establish a [&hellip;]",
+  "pubDate": "Tue Nov 17 2015",
+  "heroImage": "/oldschool/blog-images/2498.jpg"
+}
+---
+
+<p>My girlfriend, Marisa, is a few months into her new career as a <a href="http://marisamorby.com/">freelance copywriter and editor</a>.</p>
+<p>She has a literature degree<sup id="fnref:5a60a7c2d0a1ec88cefdcd1d049c39b8:degree" class="footnote-ref">1</sup> and hundreds of thousands of words under her belt. She’s written for <a href="https://www.themuse.com/author/marisa-morby">large</a> <a href="http://www.lifehack.org/author/marisa-morby">publications</a>. She’s created an <a href="http://creatingtheconversation.com/hire-probability-not-potential/">information product</a> and the marketing to go with it.</p>
+<p>I’m telling you this to establish a fact: Marisa is extremely well-qualified to work as a copywriter. Anyone who hires her will be very happy with the result.</p>
+<p><strong>But despite all her qualifications, her freelance career was slow out of the gate. The skill was there, but the clients weren’t piling up.</strong></p>
+<p>Why?</p>
+<h2 id="100-of-becoming-a-freelancer-is-sales:5a60a7c2d0a1ec88cefdcd1d049c39b8">100% of Becoming a Freelancer Is Sales</h2>
+<p>If you spend more than a few minutes skimming <a href="https://www.reddit.com/r/freelance/">the freelance Subreddit</a>, you’ll likely see at least a half-dozen posts from freelancers who are struggling and unhappy because they don’t have steady work.</p>
+<p>These are all qualified people<sup id="fnref:5a60a7c2d0a1ec88cefdcd1d049c39b8:reddit" class="footnote-ref">2</sup> who could easily handle freelance contracts. And yet they’re stuck without work, or forced to race to the bottom on sites like Upwork.</p>
+<p>But these people aren’t <em>freelancers</em> — they’re employees without bosses.</p>
+<p>Freelancers are — first and foremost — salespeople.</p>
+<h3 id="you-can-only-get-hired-if-someone-knows-you-exist:5a60a7c2d0a1ec88cefdcd1d049c39b8">You Can Only Get Hired If Someone Knows You Exist</h3>
+<p>The truth about freelancing is that getting hired as a freelancer has exactly<em>nothing</em> to do with your abilities as a freelancer.</p>
+<p><div id="attachment_2490" style="width: 910px" class="wp-caption alignnone"><a href="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/i-exist.jpg"><img aria-describedby="caption-attachment-2490" loading="lazy" class="wp-image-2490 size-full" style="-moz-box-shadow: 0px 0px 10px 5px #000; -webkit-box-shadow: 0px 0px #000; box-shadow: 0px 0px #000; ; behavior: url('http://thenuschool.com/wp-content/plugins/roundit/pie/PIE.php'); position: relative;" src="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/i-exist.jpg" alt="i-exist" width="900" height="550" /></a><p id="caption-attachment-2490" class="wp-caption-text">Does anyone know you&#8217;re here? CREDIT: <a href="http://www.trustcollective.com/portfolio/content/bent_drpepper.htm" target="_blank">BENT</a></p></div></p>
+<figure class="caption alignleft"></figure>
+<figure class="caption alignleft"><figcaption class="caption-text"></figcaption></figure>
+<p>Here’s an analogy to try and put this in perspective:</p>
+<blockquote><p>Say I need a deck built. I haven’t done anything resembling construction or woodworking since I made a lopsided toothpick box in seventh grade shop class, so I’m walking in pretty blind here.</p>
+<p>I start by asking people I trust: my dad, who’s had things built before; my friends who own houses; a buddy who used to work construction. Do they know anyone I could ask about building the deck?</p>
+<p>After people I trust, I might put the word out through whatever channels are available to me. A call for help on Facebook or Twitter. Maybe someone knows someone.</p>
+<p>Then I consult the internet at large. Are there any reviews? Who’s the best deck-builder in my city?</p>
+<p>In the end, I’ll have a list. Or, more than likely, one of my trusted sources will have a recommendation, and I’ll just go with that unquestioningly — why doubt the endorsement of someone I trust?</p>
+<p>So here I am, a deck contract awarded, and I know nothing about my contractor except that my friend Troy likes him.</p></blockquote>
+<p>&nbsp;</p>
+<p><strong>A freelancer’s skills mean jack shit in the decision-making process for most clients.</strong></p>
+<p>You know that cheesy cliché, “It’s not <em>what</em> you know; it’s <em>who</em> you know”?</p>
+<p>It’s a cliché for a reason.</p>
+<h2 id="100-of-building-client-relationships-is-skill:5a60a7c2d0a1ec88cefdcd1d049c39b8">100% of Building Client Relationships Is Skill</h2>
+<p>“But wait,” you say, “there’s so much more to freelancing than sales!”</p>
+<p>Of course. But none of that matters if you’re not selling.</p>
+<p>Where sales stop mattering is <em>after</em> the sale is made.</p>
+<p><strong>Once you’ve won a client, gotten a deposit, and started a project, your sales ability can’t help you anymore — you’re on the hook to be good at your job.</strong></p>
+<p>Your talent as a freelancer will make clients happy, and it will keep them coming back. Plus, it creates referrals — which we’ll come back to in a few minutes.</p>
+<h2 id="selling-feels-gross:5a60a7c2d0a1ec88cefdcd1d049c39b8">Selling Feels Gross</h2>
+<p>Look: I hate selling. <em>Hate it.</em></p>
+<p>Accosting a friend or stranger and asking for money feels presumptuous, invasive, and greasy.</p>
+<figure class="caption aligncenter">
+<p><div style="width: 1610px" class="wp-caption alignnone"><img loading="lazy" src="http://lengstorf.com/images/used-car-salesman.jpg" alt="used car salesman" width="1600" height="900" /><p class="wp-caption-text">Selling shouldn&#8217;t make you feel like this guy. CREDIT: FORBES</p></div><figcaption class="caption-text"> <small></small></figcaption></figure>
+<p>I’ve never made a cold call in my life.<sup id="fnref:5a60a7c2d0a1ec88cefdcd1d049c39b8:coldcalls" class="footnote-ref">3</sup> I’ve sent fewer than a dozen unsolicited emails asking for business. I get anxiety thinking about approaching someone who has no idea who I am and trying to convince them I’m worth money.</p>
+<p>The power dynamics are weird; the approach puts me at a social disadvantage, and forces me to work extra hard to prove I know something. I would never buy something from a stranger I’ve never heard of before; why would I expect anyone to buy from me when I’m a stranger?</p>
+<h3 id="you-still-have-to-own-your-position:5a60a7c2d0a1ec88cefdcd1d049c39b8">You Still Have to Own Your Position</h3>
+<p>I don’t like approaching someone cold, but I have no issue whatsoever telling someone what I do — what I <em>am</em>.</p>
+<p><strong>It’s critical to fully own your ability to do the job you’re telling people you can do.</strong></p>
+<p>If you don’t trust yourself to be outstanding at your job, why should anyone else?</p>
+<p>Before I started freelancing full time, I waffled on what I was. Was I a guy who worked at Kinko’s and made the odd website on the side? Or was I a web designer working to bootstrap a new freelance business?</p>
+<p>I felt like an impostor telling people I was a web designer. They’d think I was a liar if they walked into Kinko’s and saw me there, right?</p>
+<p>But that’s not a healthy way to look at things. When I was younger, this wasn’t an issue for me: sure, I worked at Pizza Hut part-time, but I was a <em>musician</em> first and foremost. My band didn’t make much money, but we practiced a few times a week and played a show every month or so.</p>
+<p>For some reason, it was much easier to tell people I was a musician than to tell them I was a web designer.<sup id="fnref:5a60a7c2d0a1ec88cefdcd1d049c39b8:roles" class="footnote-ref">4</sup></p>
+<p>Maybe it was easier to call myself a musician because I had a group of friends to be part of my band, and as a freelancer I was just a guy working alone on my couch.</p>
+<p>Maybe it was because being a freelancer seemed more important, and I was more afraid of failure.</p>
+<p>Whatever it was, something made me uncomfortable about saying the phrase, “I am a freelance web designer.”</p>
+<h3 id="confidence-is-critical:5a60a7c2d0a1ec88cefdcd1d049c39b8">Confidence Is Critical</h3>
+<p>When I finally quit my job at Kinko’s to become a full-time freelancer, my confidence instantly shot through the roof. I had <a href="http://lengstorf.com/set-yourself-on-fire/">set myself on fire</a>, and it was time to put up or shut up.</p>
+<figure class="caption alignright"><figcaption class="caption-text"> </figcaption></figure>
+<p><strong>As soon as I felt like a “real” web designer, I immediately started landing more business.</strong> I don’t think this was a coincidence.</p>
+<p><a href="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/i-am-really-good-at-this.jpg"><img loading="lazy" class="alignnone size-full wp-image-2492" style="-moz-box-shadow: 0px 0px 10px 5px #000; -webkit-box-shadow: 0px 0px #000; box-shadow: 0px 0px #000; ; behavior: url('http://thenuschool.com/wp-content/plugins/roundit/pie/PIE.php'); position: relative;" src="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/i-am-really-good-at-this.jpg" alt="i-am-really-good-at-this" width="900" height="550" /></a></p>
+<p>It’s a bit of a chicken-egg problem: in order to have confidence about our abilities, we feel like we need clients; but in order to get clients, we need to have confidence in our abilities.</p>
+<p>I wasn’t trying to sell people my services, mind you. I simply felt more confident saying, “I’m a web designer, and I can build awesome websites.”</p>
+<p>People sensed my confidence, and suddenly I was being approached more often about jobs.</p>
+<figure class="caption aligncenter"><img src="http://lengstorf.com/images/use-your-network.jpg" alt="Freelancers who hate selling need to use their network." /><figcaption class="caption-text"></figcaption></figure>
+<p>&nbsp;</p>
+<h2 id="how-to-sell-without-selling:5a60a7c2d0a1ec88cefdcd1d049c39b8">How to Sell Without Selling</h2>
+<p>Confidence doesn’t solve all problems, though. I was getting approached for jobs, but that was because people knew who I was.</p>
+<p>But if I didn’t like selling and wasn’t cold-calling people, how did anyone know who I was?</p>
+<p>The way I see it, there are two ways to get new business as a freelancer:</p>
+<ol>
+<li>Sell your services</li>
+<li>Have other people sell your services for you</li>
+</ol>
+<p>I wasn’t all that comfortable with option 1, so I wanted to find a way to make option 2 happen.</p>
+<p>I needed to create a killer referral network.</p>
+<h3 id="there-s-still-some-selling-involved:5a60a7c2d0a1ec88cefdcd1d049c39b8">There’s Still Some Selling Involved</h3>
+<p>Don’t let me mislead you into thinking you won’t have to do any selling — that’s, unfortunately, just not true.</p>
+<p>You’ll have to sell. But you can do a different, more comfortable kind of selling.</p>
+<p>Instead of selling to strangers, start selling to your network.</p>
+<h2>Take Advantage of Your Network</h2>
+<p>For most people, there’s a loose network of acquaintances and “buddies” spread through the community, state, country, and/or world. Not necessarily people that you keep in touch with daily, but the kind of people you speak to every month or two — just to catch up.</p>
+<h3 id="be-willing-to-ask-for-help:5a60a7c2d0a1ec88cefdcd1d049c39b8">Be Willing to Ask for Help</h3>
+<p>When you talk to these folks, they’ll inevitably ask you, “So what’s new?”</p>
+<p>If you’re anything like me, the default answer might be to say, “Not much. I’m working as a freelancer now, which is pretty exciting. How are you?”</p>
+<p>This is factual, <em>but it could be much better.</em></p>
+<p>Now, look: we’re not trying to scam our friends into anything. But we <em>do</em> want to make sure our friends are aware of what we’re doing, and that they could help us do better.</p>
+<p>So when our friend asks, “What’s new?” we don’t brush the question off. Instead, we present a friendly, opt-in request:</p>
+<blockquote><p>Well, my biggest news is that I’ve just start working as a freelance web designer, which is pretty exciting. The biggest challenge so far is finding clients, so if you know anyone who needs a website, I’d appreciate it if you’d drop my name or make an intro.</p></blockquote>
+<p>&nbsp;</p>
+<p>You haven’t asked for anything that puts your friend out. All you’re doing is putting it in her head that she can help you out.</p>
+<p>Remember the deck analogy from earlier? People love to have the answers to other people’s problems. If my friend can connect me to someone who needs my services, she wins twice: she helped me grow my business, and helped her other friend solve their website problem.</p>
+<h3 id="you-don-t-have-to-wait-for-an-opening:5a60a7c2d0a1ec88cefdcd1d049c39b8">You Don’t Have to Wait for an Opening</h3>
+<p>You can also start this conversation. Email your acquaintances to catch them up on things, including a nudge to send any potential leads your way.</p>
+<p>That email is almost the same. It might look something like this:</p>
+<blockquote><p>Hey, friend–</p>
+<p>I hope you’re doing well! I wanted to drop you a line to see how things are going and catch up.</p>
+<p><em>[Talk about things that are relevant: do they have kids? were they starting something new last time you spoke?]</em></p>
+<p>Things on my end are pretty exciting right now. My biggest news is that I’ve just start working as a freelance web designer. The biggest challenge so far is finding clients, so if you know anyone who needs a website, I’d appreciate it if you’d drop my name or make an intro.</p>
+<p><em>[Catch them up on anything else in your life that you want to share here.]</em></p>
+<p>Anyways, I hope you’re having an awesome summer. I’ll look forward to hearing from you!</p></blockquote>
+<p>&nbsp;</p>
+<p>This message isn’t hiding an agenda. You’re not trying to weasel something out of a friend. You’re simply sharing big life news and making it known that — if they happen to hear someone needs a website — they can help you out by spreading the word.</p>
+<p>If you sent this message without the note about referring leads, it would still be a meaningful message to you and your friend.</p>
+<h3 id="remember-these-are-your-friends:5a60a7c2d0a1ec88cefdcd1d049c39b8">Remember: These Are Your Friends</h3>
+<p>The big goal, of course, is not to be a dick about this. You are <em>not</em> going to get good results by pestering everyone you know about buying a website to “help you out” or whatever. That’s multi-level marketing — are you a freelancer, or are you hawking Scentsy candles?</p>
+<p>Before you send an email, make sure you wouldn’t be upset if you received the same email from your friend.</p>
+<p>It’s one thing to be made aware that someone is looking for work; it’s another thing entirely to be pumped for leads and/or pressured into buying things.</p>
+<p>You’ll be fine if you just follow Wheaton’s Law: don’t be a dick.</p>
+<p><div id="attachment_2493" style="width: 520px" class="wp-caption alignnone"><a href="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/dont-be-a-dick.jpg"><img aria-describedby="caption-attachment-2493" loading="lazy" class="size-full wp-image-2493" style="-moz-box-shadow: 0px 0px 10px 5px #000; -webkit-box-shadow: 0px 0px #000; box-shadow: 0px 0px #000; ; behavior: url('http://thenuschool.com/wp-content/plugins/roundit/pie/PIE.php'); position: relative; credit: WIL WHEATON;" src="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/dont-be-a-dick.jpg" alt="CREDIT: WIL WHEATON" width="510" height="659" /></a><p id="caption-attachment-2493" class="wp-caption-text">CREDIT: WIL WHEATON</p></div></p>
+<h2 id="grow-your-network:5a60a7c2d0a1ec88cefdcd1d049c39b8">Grow Your Network</h2>
+<p>In addition to your existing network, make an effort to meet people — especially people who are in the industries you’d like to work with.</p>
+<p>This has the added benefit of building a community. You can help people in whatever way you’re able, and they’ll be able to reciprocate as best as possible.</p>
+<h3 id="attend-local-meetups-and-professional-groups:5a60a7c2d0a1ec88cefdcd1d049c39b8">Attend Local Meetups and Professional Groups</h3>
+<p>When I first started out, I started attending a small group called <a href="http://www.meetup.com/Montana-Programmers/">MT Programmers</a> in Missoula. I started to get involved, and through the people I met there, I was introduced to more and more people in the community — more than a few of my first gigs came from these introductions.</p>
+<p>Later, I spent money to attend conferences, and I found myself surrounded by people who were focusing on their businesses and willing to spend money to get what they needed — often, this meant they needed website help, so it naturally came up in conversation that we could help each other out.</p>
+<p><div id="attachment_2494" style="width: 910px" class="wp-caption alignnone"><a href="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/jason-lengstorf-community.jpg"><img aria-describedby="caption-attachment-2494" loading="lazy" class="size-full wp-image-2494" style="-moz-box-shadow: 0px 0px 10px 5px #000; -webkit-box-shadow: 0px 0px #000; box-shadow: 0px 0px #000; ; behavior: url('http://thenuschool.com/wp-content/plugins/roundit/pie/PIE.php'); position: relative;" src="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/11/jason-lengstorf-community.jpg" alt="In Missoula, running a small workshop in 2010." width="900" height="550" /></a><p id="caption-attachment-2494" class="wp-caption-text">In Missoula, running a small workshop in 2010.</p></div></p>
+<h3 id="bring-your-clients-into-your-network:5a60a7c2d0a1ec88cefdcd1d049c39b8">Bring Your Clients into Your Network</h3>
+<p>Every time I get a new project, I bust my ass to make sure the client is really happy with me. I know that happy clients are worth<em>way more</em> than just the value of a given project.</p>
+<p>Many of my clients became life-long friends. I’ve been invited to book launch parties, weddings, vacations, and more. This could never have happened if I didn’t show that I’m a stand-up guy through my work.</p>
+<p>From a financial perspective, lots of my clients came back later with additional projects. Far more of them referred friends and colleagues to me.</p>
+<h3 id="ask-clients-for-referrals:5a60a7c2d0a1ec88cefdcd1d049c39b8">Ask Clients for Referrals</h3>
+<p>Part of my wrapping-up process with clients is to send an email letting them know that I don’t advertise, and the only way I get new clients is by word-of-mouth from my existing clients. I ask them — if they feel like I did a good job and they’re happy with my work — to please keep me in mind if they meet someone else who needs a website.</p>
+<p>I also offer a referral bonus as a token of my appreciation. It’s not much — $100 for any referral who signs on with me — but I like to send it over as a token of my appreciation.</p>
+<p>I make sure to send a personal note thanking the person for each referral as well, except in the case of my highest-referring clients — they send too many leads, so I’d be spamming them.</p>
+<h2 id="eventually-you-can-stop-selling:5a60a7c2d0a1ec88cefdcd1d049c39b8">Eventually You Can Stop Selling</h2>
+<p>After a couple years, I had a large enough network that my referral stream was too much for me to handle. I received several inquiries a week from people who were serious about web projects.</p>
+<p>I was swamped. I had to hire subcontractors to help. I had a waiting list.</p>
+<p>And this meant I never had to go out and “do sales” the way that freelancers typically view sales. No cold calls or emails, no advertising, no proposals. Just a steady stream of referrals — which is a different (far less awkward) type of selling.<sup id="fnref:5a60a7c2d0a1ec88cefdcd1d049c39b8:dating" class="footnote-ref">5</sup></p>
+<h2 id="freelancing-is-for-conversationalists:5a60a7c2d0a1ec88cefdcd1d049c39b8">Freelancing Is for Conversationalists</h2>
+<p>Whether it’s direct sales or leveraging a network for introductions, your job as a freelancer is to generate conversations with people who may need your services.</p>
+<p>This means that your ability to speak in a clear and friendly manner is perhaps your most valuable skill. If you sound confident, and you don’t seem like a dick, chances are you’ll get the job over someone who seems unsure or comes off as abrasive.</p>
+<p><strong>As unfair as it may seem, a freelancer with better conversational skills will likely win a job over a more competent freelancer who speaks poorly.</strong></p>
+<h2 id="you-can-be-successful-without-selling:5a60a7c2d0a1ec88cefdcd1d049c39b8">You Can Be Successful Without Selling</h2>
+<p>It’s a slower road than hard selling, but you can successfully build a freelance career only by networking.</p>
+<ol>
+<li>Let your friends know what you’re doing</li>
+<li>Ask them to refer anyone who might need your services</li>
+<li>Go out and meet people — especially if they’re in your target demographic</li>
+<li>Be helpful and confident</li>
+<li>Kick ass for your clients</li>
+<li>Ask them for referrals</li>
+</ol>
+<p>I had a referral network after my first project, and it grew steadily with each new project I took on. It seemed to me that most projects would lead to one referral, and every once in a while a project would lead to a huge number of referrals.</p>
+<p>So if you hate sales, don’t worry — you can still be a freelancer. You may need to hold onto your day job a bit longer, but you can get there.</p>
+<p>Just stay confident, ask for leads, and remember that your skills finish the job and earn new referrals — so do good work.</p>
+<p><div class="nuyearpost"><img class="nuyeardesigner" src="https://d1h06o8peg3yk5.cloudfront.net/wp-content/uploads/2015/04/jason-lengstorf-picture-square1.jpg" width="200" alt="549baa1fd5f3fde76c24ea81_Brad-Frost.png">
+          <div class="nuyeardesignername">Post by Jason Lengstorf</div>
+          <p class="postparagraphtext nuyeartext">Jason Lengstorf is a speaker, author, and consultant. He makes his living building web apps for clients including PlayStation, Intel, and Precision Nutrition. In 2014, he sold everything he owned and started traveling the world. He's been on the road ever since.</p>
+          <div class="nuyearlinkblock"><a target="_blank" style="text-decoration:none" class="nuyearlink" href="http://lengstorf.com/">Website</a><a target="_blank" style="text-decoration:none" class="nuyearlink" href="https://twitter.com/jlengstorf">Twitter</a>
+          </div>
+        </div></p>
+<hr />
+<p>&nbsp;</p>
+<div id="footnotes">
+<ol>
+<li>I don’t actually remember <em>exactly</em> what her degree is. It’s something to do with English, writing, and/or literature. Whatever it is, it’s very relevant to writing professionally.</li>
+<li>Correction: 61% of Reddit users are actually <a href="http://www.squirreltruth.com/facts">seven squirrels in a human suit</a>.</li>
+<li>These work. I’m not saying you <em>shouldn’t</em> make cold calls. I just never liked the idea of becoming a telemarketer for my own services, so I worked around the problem.</li>
+<li>This was especially odd given that I was always a mediocre musician at best, but web design came to me pretty naturally. Comparatively, my design skill set was stronger than my musical skill set almost immediately.</li>
+<li>I think of it like dating, because to me it’s kind of the same thing. I have <em>never</em> had success approaching a stranger and wooing her. However, if I get introduced by a mutual friend, I feel far less awkward and there’s a much higher chance that we’ll hit it off.I think this happens because the introduction creates a reason for me to be there. My friend has vouched for me, and this means the conversation starts on level ground — I don’t have to prove I deserve to be there, and the conversation can progress naturally.</li>
+</ol>
+</div>
