@@ -8,4 +8,7 @@ export default defineConfig({
 	site: 'https://ayal.github.io/oldschool',
 	base: 'oldschool',
 	integrations: [mdx(), sitemap()],
+	build: {
+		assets: 'assets'
+	}
 });
