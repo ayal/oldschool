@@ -27,7 +27,7 @@ const lessons = (await getCollection('lesson'))
 							lessons.map(lesson => (
 								
 						<li>
-						<a href={`/lesson/${lesson.id}/`}>
+						<a href={`/oldschool/lesson/${lesson.id}/`}>
 							<h5>{lesson.data.title}</h5>
 							<p>{lesson.data.videos?.length} videos</p>
 						</a>
