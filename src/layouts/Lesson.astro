@@ -146,7 +146,7 @@ const { title, videos } = Astro.props;
 <div class="container">
     <div class="video-section">
         <video id="mainVideo" controls>
-            <source id="videoSource" src="videos/lesson1-intro.mp4" type="video/mp4">
+            <source id="videoSource" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
@@ -163,7 +163,7 @@ const { title, videos } = Astro.props;
             <ul id="videoList">
                 {
                     videos?.map((video, index) => (
-                        <li data-video={index} data-url={`/videos/${encodeURIComponent(video.url)}`}>
+                        <li data-video={index} data-url={`https://ayal.github.io/nuski/videos/${encodeURIComponent(video.url)}`}>
                             <span>{video.title}</span>
                         </li>
                     ))
@@ -189,7 +189,7 @@ const { title, videos } = Astro.props;
             if (videoUrl) {
                 videoSource.setAttribute('src', videoUrl);
                 mainVideo.load();
-                mainVideo.play();
+                 mainVideo.play();
             }
         }
 
