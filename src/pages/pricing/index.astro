@@ -1,0 +1,85 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { getCollection } from 'astro:content';
+
+const lessons = (await getCollection('lesson'))
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<div class="container">
+		
+			<div class="sections">
+		
+				<div class="lessons">
+					<h2>The Lessons</h2>
+					
+					<ul>
+						{
+							lessons.map(lesson => (
+								
+						<li>
+						<a href={`/lesson/${lesson.id}/`}>
+							<h5>{lesson.data.title}</h5>
+							<p>{lesson.data.videos?.length} videos</p>
+						</a>
+						</li>
+						
+						))
+
+						}
+					</ul>
+				</div>
+		
+				<div class="mentors">
+					<h2>The Mentors</h2>
+					<div class="mentor">
+						<img src="Ran.png" alt="Ron Segal">
+						<div>
+							<strong>Ran Segal</strong><br>
+							Experienced in UX design, design-thinking, and more.
+						</div>
+					</div>
+					<div class="mentor">
+						<img src="Lior.png" alt="Lior Frenkel">
+						<div>
+							<strong>Lior Frenkel</strong><br>
+							Expert in freelancing, blogging, and teaching around the world.
+						</div>
+					</div>
+				</div>
+		
+				<div class="tools">
+					<h2>The Tools</h2>
+					<ul>
+						<li><a href="#">Project Pricing Calculator</a></li>
+						<li><a href="#">Breakdown Calculator</a></li>
+						<li><a href="#">Proposal Creator</a></li>
+					</ul>
+				</div>
+		
+				<div class="docs">
+					<h2>The Docs</h2>
+					<ul>
+						<li><a target="_blank" href="docs/stepbystep.pdf">Step By Step Guide</a></li>
+						<li><a target="_blank" href="docs/FirstTalkQuestionnaire.pdf">First Talk Questionnaire</a></li>
+						<li><a target="_blank" href="docs/TheProposalChecklist.pdf">The Proposal Checklist</a></li>
+						<li><a target="_blank" href="docs/ASexyProposalTemplate.pdf">A Sexy Proposal Template</a></li>
+						<li><a target="_blank" href="docs/TheBankOfAlternatives.pdf">The Bank Of Alternatives</a></li>
+					</ul>
+				</div>
+		
+			</div>
+		</div>
+	
+		<Footer />
+	</body>
+</html>
