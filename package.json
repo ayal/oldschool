@@ -7,7 +7,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "publish": "pnpm run build    && git commit -am \"changes\"      && git subtree split --prefix=dist -b temp-branch1 && git push origin temp-branch1:gh-pages --force"
+    "publish": "git subtree split --prefix=dist -b temp-branch1 && git push origin temp-branch1:gh-pages --force"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.4",
