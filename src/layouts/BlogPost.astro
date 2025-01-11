@@ -8,11 +8,19 @@ import FormattedDate from '../components/FormattedDate.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+function decodeHTMLEntities(encodedString: string) {
+	const rgxp = /&[#0-9a-zA-Z]+;/gi;
+	return encodedString.replace(rgxp, (match) => {
+		const code = match.match(/[0-9a-zA-Z]+/);
+		return String.fromCharCode(Number(code));
+	});
+}
+const decodedTitle = decodeHTMLEntities(title);
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={decodedTitle} description={description} />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -73,7 +81,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 								)
 							}
 						</div>
-						<h1>{title}</h1>
+						<h1>{decodedTitle}</h1>
 						<hr />
 					</div>
 					<slot />
