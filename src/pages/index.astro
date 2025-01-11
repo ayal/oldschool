@@ -3,9 +3,7 @@ import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
-import { getCollection } from "astro:content";
 
-const lessons = await getCollection("lesson");
 ---
 
 <!doctype html>
@@ -17,15 +15,17 @@ const lessons = await getCollection("lesson");
 		<Header />
 
 		<main>
+			
 			<div class="card card-pricing">
 				<h1 class="card-title">The Pricing Class</h1>
 				<a href="/oldschool/pricing" class="card-button">Go To Class</a>
 			</div>
 			<div class="card card-marketing">
 				<h1 class="card-title">Marketing For Honest Freelancers</h1>
-				<a href="/oldschool/marketing" class="card-button">Go To Class</a>
+				<a href="/oldschool/marketing" class="card-button"
+					>Go To Class</a
+				>
 			</div>
-			
 		</main>
 		<Footer />
 	</body>
