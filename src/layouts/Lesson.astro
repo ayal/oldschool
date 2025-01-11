@@ -55,6 +55,12 @@ const { title, videos } = Astro.props;
             border: 1px solid #ddd;
         }
 
+        .video-title {
+            margin-top: 10px;
+            font-size: 18px;
+            color: #333;
+        }
+
         .navigation {
             display: flex;
             justify-content: space-between;
@@ -107,9 +113,18 @@ const { title, videos } = Astro.props;
             cursor: pointer;
         }
 
+        .videos ul li.selected {
+            background: #0073e6;
+
+        }
+
         .videos ul li span {
             font-size: 14px;
             color: #666;
+        }
+
+        .videos ul li.selected span {
+            color: #fff;
         }
 
         .talk textarea {
@@ -149,6 +164,7 @@ const { title, videos } = Astro.props;
             <source id="videoSource" type="video/mp4">
             Your browser does not support the video tag.
         </video>
+        <div id="videoTitle" class="video-title"></div>
     </div>
 
     <div class="navigation">
@@ -163,7 +179,7 @@ const { title, videos } = Astro.props;
             <ul id="videoList">
                 {
                     videos?.map((video, index) => (
-                        <li data-video={index} data-url={`https://ayal.github.io/nuski/videos/${encodeURIComponent(video.url)}`}>
+                        <li data-video={index} data-url={`https://ayal.github.io/nuski/videos/${encodeURIComponent(video.url)}`} data-title={video.title}>
                             <span>{video.title}</span>
                         </li>
                     ))
@@ -178,18 +194,25 @@ const { title, videos } = Astro.props;
     document.addEventListener('DOMContentLoaded', () => {
         const videoSource = document.getElementById('videoSource');
         const mainVideo = document.getElementById('mainVideo');
+        const videoTitle = document.getElementById('videoTitle');
         const videoItems = document.querySelectorAll('#videoList li');
         const backButton = document.getElementById('backButton');
         const nextButton = document.getElementById('nextButton');
 
         let currentVideoIndex = 0;
 
-        function loadVideo(index) {
+        function loadVideo(index, play = true) {
             const videoUrl = videoItems[index].getAttribute('data-url');
+            const videoTitleText = videoItems[index].getAttribute('data-title');
             if (videoUrl) {
                 videoSource.setAttribute('src', videoUrl);
                 mainVideo.load();
-                 mainVideo.play();
+                videoTitle.textContent = videoTitleText;
+                if (play) {
+                    mainVideo.play();
+                }
+                videoItems.forEach(item => item.classList.remove('selected'));
+                videoItems[index].classList.add('selected');
             }
         }
 
@@ -216,6 +239,11 @@ const { title, videos } = Astro.props;
                     loadVideo(currentVideoIndex);
                 }
             });
+
+            // Load the first video in the list on load, but don't play it yet
+            if (videoItems.length > 0) {
+                loadVideo(0, true);
+            }
         }
     });
 </script>
