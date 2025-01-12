@@ -98,8 +98,13 @@ b {
 	font-weight: 700;
 }
 a {
-	color: var(--accent);
+	color: var(--text-color);
 }
+
+a:active {
+ text-decoration: underline;
+}
+
 a:hover {
 	color: var(--accent);
 }
@@ -122,7 +127,6 @@ table {
 img {
 	max-width: 100%;
 	height: auto;
-	border-radius: 8px;
 }
 code {
 	padding: 2px 5px;
@@ -240,8 +244,8 @@ nuschool:
 	width: 100%;
 }
 
-.lessons ul li a:hover {
-	color: #ffc400; /* Yellow hover effect for links */
+.lessons ul li:hover {
+	background: #ffc400; /* Light gray for descriptions */
 }
 
 .mentors .mentor {

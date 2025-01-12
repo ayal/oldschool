@@ -13,19 +13,30 @@ const lessons = _lessons.sort((a, b) => a.data.sort - b.data.sort).filter((lesso
 <html lang="en">
     <head>
         <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+        <style>
+            .lesson-link {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+            .lesson-link p {
+                font-size: 14px;
+            }
+
+        </style>
     </head>
     <body>
         <Header />
         <div class="container">
             <div class="sections">
                 <div class="lessons">
-                    <h2>The Lessons</h2>
-
+                    <h4>The Lessons</h4>
                     <ul>
                         {
                             lessons.map((lesson) => (
                                 <li>
-                                    <a href={`/oldschool/lesson/${lesson.id}/`}>
+                                    <a href={`/oldschool/lesson/${lesson.id}/`} class="lesson-link">
                                         <h5>{lesson.data.title}</h5>
                                         <p>
                                             {lesson.data.videos?.length} videos
