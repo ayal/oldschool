@@ -10,7 +10,7 @@ videos: [
   {"title": "Drawing The Price - Example", "url": "7. Drawing The Price - Example-iio3ngwjjc.mp4"},
   {"title": "Fast Gun Pricing", "url": "8. Fast Gun Pricing-t5itt0i5lx.mp4"},
   {"title": "Retainer Pricing", "url": "9. Retainer Pricing-jgslpokqa7.mp4"},
-  {"title": "Summary", "url": "10. Summary-lt36d5afi3.mp4"}
+  {"title": "Summary", "url": "10. Summary-0qgejrpfcf.mp4"}
 ]
 sort: 3
 ---

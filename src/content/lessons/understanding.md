@@ -12,7 +12,7 @@
     {"title": "Types Of Clients", "url": "8. Types Of Clients-a5pzbl64oh.mp4"},
     {"title": "Types Of Design Services", "url": "9. Types Of Design Services-kcpy264kg3.mp4"},
     {"title": "Example - A Web Design Project", "url": "10. Example - A Web Design Project-szjyj22n9p.mp4"},
-    {"title": "Summary", "url": "10. Summary-c214scf3j6.mp4"}
+    {"title": "Summary", "url": "11. Summary-z5devuhx4m.mp4"}
   ],
   "sort": 1,
 }

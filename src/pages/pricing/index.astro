@@ -6,7 +6,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 import { getCollection } from "astro:content";
 
 const _lessons = await getCollection("lesson");
-const lessons = _lessons.sort((a, b) => a.data.sort - b.data.sort);
+const lessons = _lessons.sort((a, b) => a.data.sort - b.data.sort).filter((lesson) => lesson.data.sort > 0);    // filter marketing
 ---
 
 <!doctype html>

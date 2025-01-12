@@ -9,7 +9,7 @@ videos: [ {"title": "Intro", "url": "1. Intro-q0fgf5z1i9.mp4"},
     {"title": "Should I Work For Less Than Break Even?", "url": "7. Should I Work For Less Than Break Even?-i0h5kgllus.mp4"},
     {"title": "Let's Talk Profit", "url": "8. Let's Talk Profit-aqmqhxzx62.mp4"},
     {"title": "Strategies For Increasing Rates", "url": "9. Strategies For Increasing Rates-ua7wfre9ob.mp4"},
-    {"title": "Summary", "url": "10. Summary-c214scf3j6.mp4"}]
+    {"title": "Summary", "url": "10. Summary-lt36d5afi3.mp4"}]
 sort: 2
 ---
 xxx

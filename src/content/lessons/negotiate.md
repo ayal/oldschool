@@ -10,7 +10,7 @@ videos: [
   {"title": "Understanding What Your Client Wants", "url": "7. Understanding What Your Client Wants-hhlvh6eb83.mp4"},
   {"title": "The Bank Of Alternatives", "url": "8. The Bank Of Alternatives-gk4tqcmwno.mp4"},
   {"title": "The Proposal Call", "url": "9. The Proposal Call-7qt4a3vu9l.mp4"},
-  {"title": "Summary", "url": "10. Summary-0qgejrpfcf.mp4"}
+  {"title": "Summary", "url": "10. Summary-c214scf3j6.mp4"}
 ]
 sort: 4
 ---
