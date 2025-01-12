@@ -1,62 +1,152 @@
 ---
-import Layout from '../layouts/BlogPost.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
 ---
 
-<Layout
-	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
-	heroImage="/blog-placeholder-about.jpg"
->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-		viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus
-		et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-		vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-	</p>
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.team-section {
+				background-color: var(--bg-color);
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
 
-	<p>
-		Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non
-		tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non
-		blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna
-		porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis
-		massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-		Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis
-		bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra
-		massa massa ultricies mi.
-	</p>
+			.team {
+				display: flex;
+				font-size: 14px;
+				gap: 6px;
+			}
 
-	<p>
-		Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl
-		suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet
-		nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae
-		turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem
-		dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat
-		semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-		vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum
-		facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam
-		vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla
-		urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-	</p>
+			
 
-	<p>
-		Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper
-		viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc
-		scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur
-		gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus
-		pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-		blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id
-		cursus metus aliquam eleifend mi.
-	</p>
+			.team-member img {
+				width: 150px;
+			}
 
-	<p>
-		Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta
-		nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam
-		tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci
-		ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar
-		proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
-	</p>
-</Layout>
+
+			.contact {
+				display: flex;
+				gap: 3px;
+				align-items: center;
+				justify-content: center;
+				text-align: center;
+			}
+
+			
+
+			.contact a {
+				color: var(--text-color);
+				margin-right: 10px;
+				font-size: 12px;
+			}
+
+			@media (max-width: 768px) {
+				.team {
+					flex-direction: column;
+					gap: 20px;
+				}
+
+				.team-member img {
+					width: 100px;
+				}
+			}
+			
+		</style>
+	</head>
+
+	<body>
+		<main>
+			<section class="hero-section">
+				<img src="images/about-nuschool-hero.jpg" alt="Hero Image" class="hero-image">
+			</section>
+			<section class="team-section">
+				<div class="w-container">
+				  <h2 class="aboutheading">We love to learn & we love to teach.</h2>
+				  <p class="whatwelike">
+					We also love to do great work. We love design. We love life. We love technology. We love music. 
+					We love being productive. We love coffee. We love to work fast (& dirty). We love our clients.
+				  </p>
+				  <div class="team">
+					<!-- Team Member 1 -->
+					<div class="team-member">
+					  <img src="images/about-nuschool-lior-1.jpg" alt="Lior Frenkel">
+					  <h3 class="aboutname">Lior Frenkel</h3>
+					  <div class="textseperator"></div>
+					  <p class="abouttext">
+						Mixing projects, people & technology both online and offline. He used to work as an engineer & project manager 
+						before jumping into the startup scene. Now he's consulting, blogging & lecturing around the world.
+					  </p>
+					  <div class="contact">
+						<a href="mailto:lior@thenuschool.com?subject=Hey%20Lior!%20Saw%20the%20nuschool%20website..">
+						  Email
+						</a>
+						<a href="https://www.facebook.com/hamutsi?fref=ts" target="_blank">
+						Facebook
+						</a>
+						<a href="https://twitter.com/hamutsi" target="_blank">
+							Twitter
+						</a>
+						<a href="https://www.linkedin.com/profile/view?id=6104862" target="_blank">
+						  LinkedIn
+						</a>
+					  </div>
+					</div>
+					<!-- Team Member 2 -->
+					<div class="team-member">
+					  <img src="images/about-nuschool-ayal-1.jpg" alt="Ayal Gelles">
+					  <h3 class="aboutname">Ayal Gelles</h3>
+					  <div class="textseperator"></div>
+					  <p class="abouttext">
+						Programming computers for 15 years. Programming himself for 30 years. Programming other people. Programming 
+						for a living. Teaching it. Still learning it. Playing with it. Making art with it. Loving it.
+					  </p>
+					  <div class="contact">
+						<a href="mailto:ayal@thenuschool.com?subject=Hey%20Ayal!%20Saw%20the%20nuschool%20website..">
+						  Email
+						</a>
+						<a href="https://www.facebook.com/takashirgb?fref=ts" target="_blank">
+						  Facebook
+						</a>
+						<a href="https://twitter.com/ayalgelles" target="_blank">
+						  Twitter
+						</a>
+						<a href="https://www.linkedin.com/pub/ayal-gelles/70/b8a/527" target="_blank">
+						  LinkedIn
+						</a>
+					  </div>
+					</div>
+					<!-- Team Member 3 -->
+					<div class="team-member">
+					  <img src="images/about-nuschool-ran-1.jpg" alt="Ran Segall">
+					  <h3 class="aboutname">Ran Segall</h3>
+					  <div class="textseperator"></div>
+					  <p class="abouttext">
+						Playing with pixels since he was 14. Started to charge money for it when he was 17. Used to work in advertising 
+						& branding, now he enjoys helping startups & other designers.
+					  </p>
+					  <div class="contact">
+						<a href="mailto:ran@thenuschool.com?subject=Hey%20Ran!%20Saw%20the%20nuschool%20website..">
+						  Email
+						</a>
+						<a href="https://www.facebook.com/ran.segall" target="_blank">
+						  Facebook
+						</a>
+						<a href="https://twitter.com/ransegall" target="_blank">
+						  Twitter
+						</a>
+						<a href="https://il.linkedin.com/pub/ran-segall/33/82a/b5/" target="_blank">
+						  LinkedIn
+						</a>
+					  </div>
+					</div>
+				  </div>
+				</div>
+			  </section>
+		</main>
+	</body>
+</html>
