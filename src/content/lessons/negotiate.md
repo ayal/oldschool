@@ -1,7 +1,7 @@
 ---
 title: 'Negotiating Smartly'
 videos: [
-  {"title": "Intro", "url": "1. Intro-q0fgf5z1i9.mp4"},
+  {"title": "Intro", "url": "1. Intro-4qbe9megmy.mp4"},
   {"title": "Let's Talk About Money", "url": "2. Let's Talk About Money-0inca5h18n.mp4"},
   {"title": "Negotiation 101", "url": "3. Negotiation 101-kz09b2twog.mp4"},
   {"title": "The Phases Of Negotiation", "url": "4. The Phases Of Negotiation-oa56gfqsg4.mp4"},
@@ -12,4 +12,5 @@ videos: [
   {"title": "The Proposal Call", "url": "9. The Proposal Call-7qt4a3vu9l.mp4"},
   {"title": "Summary", "url": "10. Summary-0qgejrpfcf.mp4"}
 ]
+sort: 4
 ---

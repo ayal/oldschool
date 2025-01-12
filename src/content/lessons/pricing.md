@@ -12,4 +12,5 @@ videos: [
   {"title": "Retainer Pricing", "url": "9. Retainer Pricing-jgslpokqa7.mp4"},
   {"title": "Summary", "url": "10. Summary-lt36d5afi3.mp4"}
 ]
+sort: 3
 ---

@@ -23,6 +23,7 @@ const lesson = defineCollection({
 		title: z.string(),
 		// array of {title, url} objects
 		videos: z.array(z.object({ title: z.string(), url: z.string() })),
+		sort: z.number(),
 	}),
 });
 

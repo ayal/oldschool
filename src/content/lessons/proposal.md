@@ -13,4 +13,5 @@ videos: [
   {"title": "Proposals 3.0", "url": "10. Proposals 3.0-q4f90ivfh0.mp4"},
   {"title": "Final Thoughts", "url": "11. Final Thoughts-htvdfqqifh.mp4"}
 ]
+sort: 5
 ---

@@ -2,7 +2,7 @@
 {
   "title": "Understanding Your Market",
   "videos": [
-    {"title": "Intro", "url": "1. Intro-q0fgf5z1i9.mp4"},
+    {"title": "Intro", "url": "1. Intro-qur1fgvqun.mp4"},
     {"title": "Supply & Demand", "url": "supply-demand.mp4"},
     {"title": "Creation Time", "url": "3. Creation Time-waam8e42wh.mp4"},
     {"title": "What Clients Pay For", "url": "4. What Clients Pay For-8dmibgwo1y.mp4"},
@@ -13,7 +13,8 @@
     {"title": "Types Of Design Services", "url": "9. Types Of Design Services-kcpy264kg3.mp4"},
     {"title": "Example - A Web Design Project", "url": "10. Example - A Web Design Project-szjyj22n9p.mp4"},
     {"title": "Summary", "url": "10. Summary-c214scf3j6.mp4"}
-  ]
+  ],
+  "sort": 1,
 }
 
 ---
