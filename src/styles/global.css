@@ -339,3 +339,50 @@ nuschool:
 	background-color: #8F00FF;
 	color: white;
   }
+
+
+  /* header */
+
+  .header-container {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+.logo {
+	position: absolute;
+	left: 1em;	
+}
+
+.nav-container {
+	flex: 1;
+	display: flex;
+	justify-content: center;
+}
+
+.internal-links {
+	display: flex;
+}
+
+nav a {
+	padding: 1em 0.5em;
+	color: var(--text-color);
+	border-bottom: 4px solid transparent;
+	text-decoration: none;
+}
+
+nav a.active {
+	text-decoration: none;
+	border-bottom-color: var(--accent);
+}
+
+.social-links,
+.social-links a {
+	display: flex;
+}
+
+@media (max-width: 720px) {
+	.social-links {
+		display: none;
+	}
+}
