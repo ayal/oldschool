@@ -40,7 +40,7 @@ const getFeaturedImage = async (id) => {
     const imagePath = `./public/blog-images/${image.id}.jpg`;
     // await downloadImage(image.source_url, imagePath);
     console.log(`Fetched featured image from the API: ${image.source_url}`, imagePath);
-    return `/oldschool/blog-images/${image.id}.jpg`;
+    return `./blog-images/${image.id}.jpg`;
 }
 
 (async function fetchAndGenerateMarkdown() {

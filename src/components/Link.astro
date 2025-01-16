@@ -1,0 +1,10 @@
+---
+const { href, as: el, ...props } = Astro.props;
+const baseURL = import.meta.env.BASE_URL;
+const cleanHREF = href.replace(`${baseURL}`, '');
+const url = `${baseURL}${cleanHREF}`;
+const Element = el || 'a'
+---
+<Element href={url} {...props}>
+    <slot />
+</Element>

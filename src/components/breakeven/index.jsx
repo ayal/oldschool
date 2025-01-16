@@ -59,27 +59,14 @@ export const StepComponent = ({
             value={value}
             onChange={(e) => onChange(e.target.value)}
             placeholder={placeholder}
-            style={{
-              padding: "10px",
-              fontSize: "16px",
-              border: "1px solid #ccc",
-              borderRadius: "4px",
-              marginRight: "10px",
-              width: "100px",
-            }}
+            
           />
         )}
         {inputType === "select" && (
           <select
             value={value}
             onChange={(e) => onChange(Number(e.target.value))}
-            style={{
-              padding: "10px",
-              fontSize: "16px",
-              border: "1px solid #ccc",
-              borderRadius: "4px",
-              width: "100px",
-            }}
+            
           >
             {options.map((option, idx) => (
               <option key={idx} value={option}>
@@ -92,13 +79,7 @@ export const StepComponent = ({
           <select
             value={currencySymbol}
             onChange={(e) => onCurrencyChange(e.target.value)}
-            style={{
-              marginLeft: "10px",
-              padding: "10px",
-              fontSize: "16px",
-              border: "1px solid #ccc",
-              borderRadius: "4px",
-            }}
+            
           >
             {currencyOptions.map((symbol, idx) => (
               <option key={idx} value={symbol}>
@@ -175,6 +156,7 @@ export const BreakEvenCalculator = () => {
       onChange: setVacationDays,
       options: Array.from({ length: 31 }, (_, i) => i),
       showCurrency: false,
+      formatOption: (option)=> `${option} days`
     },
     {
       title: "Retirement Fund",

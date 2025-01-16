@@ -40,17 +40,19 @@ const { title, videos } = Astro.props;
             padding: 20px;
             /*background: #fff;*/
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            
         }
 
         .video-section {
             margin-bottom: 20px;
             text-align: center;
+            display: flex;
+            flex-direction: column;
         }
 
         .video-section video {
             width: 100%;
             max-width: 800px;
-            border: 1px solid #ddd;
         }
 
         .video-title {
@@ -62,19 +64,18 @@ const { title, videos } = Astro.props;
         .navigation {
             display: flex;
             justify-content: space-between;
-            
+            align-items: center;
         }
 
         .navigation a {
             padding: 10px 20px;
-            background: #0073e6;
+            background: rgb(var(--gray));
             color: #fff;
             text-decoration: none;
-            border-radius: 5px;
         }
 
         .navigation a:hover {
-            background: #005bb5;
+            background: rgb(var(--gray-dark));
         }
 
         .content {
@@ -83,24 +84,21 @@ const { title, videos } = Astro.props;
             flex-wrap: wrap;
         }
 
-        .videos, .talk {
-            flex: 1;
-            min-width: 300px;
-        }
 
-        .videos h2, .talk h2 {
-            font-size: 18px;
-            margin-bottom: 15px;
+        .videos {
+            @apply flex-grow flex flex-col gap-4;
         }
 
         .videos ul {
-            list-style: none;
+            /*list-style: none;
             padding: 0;
-            margin: 0;
+            margin: 0;*/
+            @apply list-none p-0 m-0 flex flex-col w-full;
+            gap: 0px;
         }
 
         .videos ul li {
-            padding: 10px;
+            /*padding: 10px;
             background: #f7f7f7;
             margin-bottom: 10px;
             border: 1px solid #ddd;
@@ -108,11 +106,13 @@ const { title, videos } = Astro.props;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            cursor: pointer;
+            cursor: pointer;*/
+            @apply grow bg-gray-50 p-4 mb-4 border border-gray-200 rounded flex justify-between items-center cursor-pointer transition-colors duration-100 ease-in-out hover:bg-gray-100 hover:border-gray-300 hover:text-gray-900;
         }
 
         .videos ul li.selected {
-            background: #0073e6;
+            /*background: rgb(var(--gray));*/
+            @apply bg-gray-900 text-white border-gray-900 hover:bg-gray-900 hover:border-gray-900 hover:text-white;
 
         }
 
@@ -125,29 +125,7 @@ const { title, videos } = Astro.props;
             color: #fff;
         }
 
-        .talk textarea {
-            width: 100%;
-            height: 100px;
-            margin-bottom: 10px;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            font-size: 14px;
-        }
-
-        .talk button {
-            background: #0073e6;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            font-size: 14px;
-            cursor: pointer;
-        }
-
-        .talk button:hover {
-            background: #005bb5;
-        }
+        
     </style>
 </head>
 <body>
@@ -163,10 +141,10 @@ const { title, videos } = Astro.props;
             Your browser does not support the video tag.
         </video>
        
-        <div class="navigation">
-            <a href="#" id="backButton">&laquo; Back</a>
+        <div class="navigation bg-gray-50">
+            <button id="backButton" class="btn">Back</button>
             <div id="videoTitle" class="video-title"></div>
-            <a href="#" id="nextButton">Next &raquo;</a>
+            <button id="nextButton" class="btn">Next</button>
         </div>
     </div>
 

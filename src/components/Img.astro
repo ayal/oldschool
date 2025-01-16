@@ -1,0 +1,10 @@
+---
+const { src, ...props } = Astro.props;
+const baseURL = import.meta.env.BASE_URL;
+const cleanSRC = src.replace(`${baseURL}`, '');
+const url = `${baseURL}${cleanSRC}`;
+const Element = 'img'
+---
+<Element src={url} {...props}>
+    <slot />
+</Element>
