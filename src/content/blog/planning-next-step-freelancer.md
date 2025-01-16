@@ -102,7 +102,7 @@
   },
   "description": "ֹIf you’re lucky, you’ll wake up one morning &#8211; or finish a project, or have a shower moment &#8211; and realize that you’re ready to move into the next phase of your career. More likely, though, is that it won’t be obvious &#8211; because it will be gradual, like having a harder time waking up [&hellip;]",
   "pubDate": "Thu Jan 04 2018",
-  "heroImage": "/oldschool/blog-images/3523.jpg"
+  "heroImage": "/blog-images/3523.jpg"
 }
 ---
 

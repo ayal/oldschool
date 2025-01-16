@@ -109,7 +109,7 @@
   },
   "description": "It happened more than once, and I want to share with you how I deal with it. Some clients&#8230; well it doesn’t matter how fair I am with them, or how much I do my best to make them happy &#8211; some clients can be **sholes! I know, I should be professional. I know, I [&hellip;]",
   "pubDate": "Mon Jul 20 2015",
-  "heroImage": "/oldschool/blog-images/2362.jpg"
+  "heroImage": "/blog-images/2362.jpg"
 }
 ---
 

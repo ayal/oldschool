@@ -100,7 +100,7 @@
   },
   "description": "So Facebook decided to add new emoticons to the good ol&#8217; Like button. They call them Reactions. Oh well, I guess in a world where Mark Zuckerberg can make smart people wear funny things on their head and think they are in the &#8220;future&#8221; &#8211; a bunch of emoticons can be called &#8220;reactions&#8221;. Anyhoo&#8230; Here are the funniest reactions to the [&hellip;]",
   "pubDate": "Wed Feb 24 2016",
-  "heroImage": "/oldschool/blog-images/2884.jpg"
+  "heroImage": "/blog-images/2884.jpg"
 }
 ---
 

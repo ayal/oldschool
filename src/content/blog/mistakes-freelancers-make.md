@@ -115,7 +115,7 @@
   },
   "description": "I want to share with you the biggest mistake I think I made starting out as a freelance designer. I didn’t correctly position myself in the market. Based on the inquiries that I get every week, I’m going to bet that you too are making the same mistake. It’s okay, there are mistakes freelancers make. I’m [&hellip;]",
   "pubDate": "Wed May 13 2015",
-  "heroImage": "/oldschool/blog-images/1906.jpg"
+  "heroImage": "/blog-images/1906.jpg"
 }
 ---
 

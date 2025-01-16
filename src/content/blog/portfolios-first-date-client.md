@@ -109,7 +109,7 @@
   },
   "description": "Spoiler: there&#8217;s a tool to help you build a portfolio within minutes in the end of this post. Don&#8217;t look! Don&#8217;t look! When a potential client lands on your portfolio, it’s a lot like a first-date. It’s the first time this potential client has seen you (and your work). While they browse through your portfolio, [&hellip;]",
   "pubDate": "Wed Jan 21 2015",
-  "heroImage": "/oldschool/blog-images/1122.jpg"
+  "heroImage": "/blog-images/1122.jpg"
 }
 ---
 

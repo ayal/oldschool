@@ -116,7 +116,7 @@
   },
   "description": "You should be napping. It can improve your energy level, productivity, memory and happiness. C&#8217;mon, I know you think I&#8217;m just looking for excuses to sleep in the middle of the day, but this is scientific. Seriously. Winston Churchill needed it for winning wars &#8211; he was the one who coined the term &#8220;power-nap&#8221;. Bill Clinton, Margaret Thatcher, Albert [&hellip;]",
   "pubDate": "Mon Oct 13 2014",
-  "heroImage": "/oldschool/blog-images/425.jpg"
+  "heroImage": "/blog-images/425.jpg"
 }
 ---
 

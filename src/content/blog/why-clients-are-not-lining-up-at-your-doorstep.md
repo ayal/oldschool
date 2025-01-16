@@ -107,7 +107,7 @@
   },
   "description": "The truth is not always fun to hear. If you are one of those people who have a hard time facing the truth, you might want to stop reading right now. Not everyone is looking to hear the truth about themselves. I found that out when I was in design school: I thought I was [&hellip;]",
   "pubDate": "Wed Sep 02 2015",
-  "heroImage": "/oldschool/blog-images/2432.jpg"
+  "heroImage": "/blog-images/2432.jpg"
 }
 ---
 

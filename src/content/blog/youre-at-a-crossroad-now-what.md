@@ -100,7 +100,7 @@
   },
   "description": "[This is an open letter written to someone who asked me what I think about crossroads in your career and options and how to choose between them]. You’re at a crossroad. You know how you got here, but not sure where you’re headed. And it’s confusing. One way seems smooth and easy – but maybe &#8230;",
   "pubDate": "Wed Mar 08 2017",
-  "heroImage": "/oldschool/blog-images/3618.jpg"
+  "heroImage": "/blog-images/3618.jpg"
 }
 ---
 

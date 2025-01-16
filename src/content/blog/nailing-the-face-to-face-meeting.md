@@ -98,7 +98,7 @@
   },
   "description": "&nbsp; Profuse sweating? Check. Mysterious stain on my shirt? Check. One solitary hair that refuses to be slicked down? Check. Sounds like I&#8217;m meeting a client for coffee. Cue the anxiety. &#8212; It&#8217;s easy to forget who your client really is. When your only communication is email and *maybe* the occasional phone call, the client [&hellip;]",
   "pubDate": "Tue Sep 20 2016",
-  "heroImage": "/oldschool/blog-images/3283.jpg"
+  "heroImage": "/blog-images/3283.jpg"
 }
 ---
 

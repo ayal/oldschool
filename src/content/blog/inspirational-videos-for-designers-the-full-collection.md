@@ -111,7 +111,7 @@
   },
   "description": "The biggest collection of inspirational videos for designers is here: TED videos for designers The Best of Creative Mornings You see, as much as I love full-length features, sometimes what you really want is just something quick to watch and get inspired by. I love seeing how amazing speakers are spreading their great thoughts, ideas and [&hellip;]",
   "pubDate": "Thu Jun 25 2015",
-  "heroImage": "/oldschool/blog-images/2263.jpg"
+  "heroImage": "/blog-images/2263.jpg"
 }
 ---
 

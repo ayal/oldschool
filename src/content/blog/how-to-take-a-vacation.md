@@ -107,7 +107,7 @@
   },
   "description": "Her: Want to go out for a day tomorrow? Let’s drive to a vinery and drink some good wine. Me: No way I can skip an entire day. I need to finish-up the design for the Cats Pajamas&#8217; website, and I have to be available for my clients. The life of a freelancer&#8230; Her: Hold on a minute, if you’re a [&hellip;]",
   "pubDate": "Wed Nov 19 2014",
-  "heroImage": "/oldschool/blog-images/504.jpg"
+  "heroImage": "/blog-images/504.jpg"
 }
 ---
 

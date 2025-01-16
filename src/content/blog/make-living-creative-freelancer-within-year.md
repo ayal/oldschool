@@ -103,7 +103,7 @@
   },
   "description": "I am only 21. A young age to give advice &#8211; I know &#8211; but still, I want to share with you my little experience. Because I got to what I thought was impossible. Within a single year of being a freelance designer &#8211; I can make a living. And I thought you might want to [&hellip;]",
   "pubDate": "Tue Jan 31 2017",
-  "heroImage": "/oldschool/blog-images/3370.jpg"
+  "heroImage": "/blog-images/3370.jpg"
 }
 ---
 

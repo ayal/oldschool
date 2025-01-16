@@ -101,7 +101,7 @@
   },
   "description": "I’d like to take you with me for a journey. A journey I went through, on one of the most important days for me this year. The day where we’ve launched our new product – Prospero. We believe in full transperancy, so I have no problem to tell you how it went, including the numbers, …",
   "pubDate": "Wed Mar 08 2017",
-  "heroImage": "/oldschool/blog-images/3612.jpg"
+  "heroImage": "/blog-images/3612.jpg"
 }
 ---
 

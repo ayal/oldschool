@@ -98,7 +98,7 @@
   },
   "description": "Last updated: 2018/05/23 This notice falls under the&nbsp;General Data Protection Regulation&nbsp;(GDPR). Who we are We&#8217;ve been incorporated in Israel, 2014 How To Contact Us If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: The nuSchool www.thenuschool.com 29 Machane Yosef, Tel-Aviv, [&hellip;]",
   "pubDate": "Thu May 25 2017",
-  "heroImage": "/oldschool/blog-images/3571.jpg"
+  "heroImage": "/blog-images/3571.jpg"
 }
 ---
 

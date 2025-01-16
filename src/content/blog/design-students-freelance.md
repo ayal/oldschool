@@ -108,7 +108,7 @@
   },
   "description": "One of the most valuable things I learned fairly early in my college career was the importance of freelancing as a design student. The value of this became more obvious every year until I graduated by seeing the work done by students who freelanced versus students who did no more work than they were assigned [&hellip;]",
   "pubDate": "Tue Feb 10 2015",
-  "heroImage": "/oldschool/blog-images/1107.jpg"
+  "heroImage": "/blog-images/1107.jpg"
 }
 ---
 

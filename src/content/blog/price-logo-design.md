@@ -118,7 +118,7 @@
   },
   "description": "[This post was updated on July-29 after I got lots of feedback, with more tips. It&#8217;s now even more complete.] So you were asked to give a price quote for producing a new logo, ah? How hard can that be? you ask yourself. I’ll just look it up on the internet, you think. LOL. Asking Google something like [&hellip;]",
   "pubDate": "Tue Jul 28 2015",
-  "heroImage": "/oldschool/blog-images/1305.jpg"
+  "heroImage": "/blog-images/1305.jpg"
 }
 ---
 

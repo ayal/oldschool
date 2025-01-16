@@ -114,7 +114,7 @@
   },
   "description": "Setting up a WordPress website is becoming more and more like opening a Facebook account; but people still fear this process, and find it more difficult than it actually is. But fear not! I’m going to show you how to create a WordPress website in 15 minutes! Without having to know how to code. Many designers [&hellip;]",
   "pubDate": "Mon Feb 23 2015",
-  "heroImage": "/oldschool/blog-images/1102.jpg"
+  "heroImage": "/blog-images/1102.jpg"
 }
 ---
 

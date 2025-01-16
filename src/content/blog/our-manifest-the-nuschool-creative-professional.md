@@ -107,7 +107,7 @@
   },
   "description": "So you chose to be a creative professional. You&#8217;ve decided you’re not going to make a living by being a paper pusher, but rather live from your art. Awesome. You wake up in the morning feeling motivated to create beautiful, useful and meaningful things. But then reality bites &#8211; Your accountant is calling, asking you [&hellip;]",
   "pubDate": "Thu Sep 18 2014",
-  "heroImage": "/oldschool/blog-images/345.jpg"
+  "heroImage": "/blog-images/345.jpg"
 }
 ---
 

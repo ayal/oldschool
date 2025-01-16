@@ -109,7 +109,7 @@
   },
   "description": "A few months ago, after a night of stomach cramps, I woke up in excruciating, doubled-over-can’t-breathe pain. Terrified and alone, I hopped a cab to the ER, from where I was admitted to the hospital with kidney stones. Fuck. It was the middle of the week, and I was out for the count. No computer, [&hellip;]",
   "pubDate": "Mon Jun 20 2016",
-  "heroImage": "/oldschool/blog-images/3168.jpg"
+  "heroImage": "/blog-images/3168.jpg"
 }
 ---
 

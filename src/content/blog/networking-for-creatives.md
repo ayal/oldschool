@@ -108,7 +108,7 @@
   },
   "description": "Did you finish design school fully booked? I didn’t. I freelanced through school, between jobs, and in the evenings, building my portfolio, my network, and my savings account. Getting to be a full-time freelancer took a few &#8212; thirteen, to be exact &#8212; years of preparing myself. If I had started full-time freelancing thirteen years [&hellip;]",
   "pubDate": "Mon Feb 08 2016",
-  "heroImage": "/oldschool/blog-images/2829.jpg"
+  "heroImage": "/blog-images/2829.jpg"
 }
 ---
 

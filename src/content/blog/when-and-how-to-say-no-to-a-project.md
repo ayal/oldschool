@@ -103,7 +103,7 @@
   },
   "description": "&#8220;Uhhh&#8230;. I don&#8217;t think I can&#8230;?&#8221; I quickly look side to side like a shifty villain. &#8220;Sorry, but I can&#8217;t.&#8221; I hang my head and do a half grin. &#8220;I&#8217;m sorry, but no.&#8221; I smile a big flashy smile, maybe that&#8217;ll soften the blow. &#8220;No.&#8221; I start sweating. I sweat when I&#8217;m nervous, okay?! Welcome [&hellip;]",
   "pubDate": "Tue Sep 29 2015",
-  "heroImage": "/oldschool/blog-images/2467.jpg"
+  "heroImage": "/blog-images/2467.jpg"
 }
 ---
 

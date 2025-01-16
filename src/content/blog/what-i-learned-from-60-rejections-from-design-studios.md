@@ -109,7 +109,7 @@
   },
   "description": "Rejection sucks. Especially lots of rejection. Whether it&#8217;s work, love, or wherever else, rejection means you put yourself out there &#8212; and someone said, no thanks, I&#8217;d rather not. There&#8217;s no quicker way to make a person doubt their skills than to reject them. And it happened to me 60 times. For designers, internships are a [&hellip;]",
   "pubDate": "Mon Apr 25 2016",
-  "heroImage": "/oldschool/blog-images/3066.jpg"
+  "heroImage": "/blog-images/3066.jpg"
 }
 ---
 

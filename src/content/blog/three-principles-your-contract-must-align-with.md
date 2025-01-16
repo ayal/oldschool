@@ -119,7 +119,7 @@
   },
   "description": "Being a freelancer is awesome. You are the boss, you manage your time, your projects, your mid-day naps (don’t worry, we won’t tell anyone about your naps. nuSchoolers believe that napping is great ). As a freelancer, you don’t share your profits with anyone but yourself. Well, maybe with your dog in case you got one. On [&hellip;]",
   "pubDate": "Wed Aug 27 2014",
-  "heroImage": "/oldschool/blog-images/232.jpg"
+  "heroImage": "/blog-images/232.jpg"
 }
 ---
 

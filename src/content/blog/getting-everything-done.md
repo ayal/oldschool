@@ -101,7 +101,7 @@
   },
   "description": "Keeping your head straight ain&#8217;t easy. When you&#8217;re a freelancer, you have a lot to keep straight. From making breakfast to making payments, the lines between personal and business can blur reeeeal fast, and things can get messy. Getting overwhelmed is a problem because overwhelmed people tend towards two bad traits: forgetfulness and impulsiveness. So, here&#8217;s some information [&hellip;]",
   "pubDate": "Tue Jul 19 2016",
-  "heroImage": "/oldschool/blog-images/3201.jpg"
+  "heroImage": "/blog-images/3201.jpg"
 }
 ---
 

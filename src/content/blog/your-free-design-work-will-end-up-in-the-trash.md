@@ -109,7 +109,7 @@
   },
   "description": "I lost $100,000, and that&#8217;s just a rough estimate. If only I hadn’t worked for free for so many years, who knows, maybe I could have owned my own apartment by now. I thought it would be good for my career, bring opportunities, help my friends, my family, that it would help me make a political [&hellip;]",
   "pubDate": "Tue Nov 11 2014",
-  "heroImage": "/oldschool/blog-images/1103.jpg"
+  "heroImage": "/blog-images/1103.jpg"
 }
 ---
 

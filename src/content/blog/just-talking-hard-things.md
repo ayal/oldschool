@@ -109,7 +109,7 @@
   },
   "description": "The hardest thing about running your own creative business is [fill in the blank here]. Being a freelancer has this very romantic narrative of being your own boss. Making your own hours. Total creative freedom. But what about the hard parts? Maybe it is romantic in all of those ways and more, but we all [&hellip;]",
   "pubDate": "Thu Feb 04 2016",
-  "heroImage": "/oldschool/blog-images/2803.jpg"
+  "heroImage": "/blog-images/2803.jpg"
 }
 ---
 

@@ -110,7 +110,7 @@
   },
   "description": "Freelancing can be a real pain in the balls. Or the lady balls, in my case. You had this shiny idea in your head of how it was going to go. You wake up every morning in your California king sized bed. You swagger over to your window and look out from your penthouse apartment [&hellip;]",
   "pubDate": "Tue Aug 16 2016",
-  "heroImage": "/oldschool/blog-images/3241.jpg"
+  "heroImage": "/blog-images/3241.jpg"
 }
 ---
 

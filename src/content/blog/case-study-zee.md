@@ -101,7 +101,7 @@
   },
   "description": "Do you have anyone whose messages immediately make you smile? For me, that&#8217;s Zee Cornelius. Zee is a brand designer whom I&#8217;ve had the privilege of meeting through The nuSchool community. She&#8217;s an absolute joy, beaming positivity and light &#8212; so when she told me how much of that career happiness she and her husband [&hellip;]",
   "pubDate": "Mon Jun 13 2016",
-  "heroImage": "/oldschool/blog-images/3148.jpg"
+  "heroImage": "/blog-images/3148.jpg"
 }
 ---
 

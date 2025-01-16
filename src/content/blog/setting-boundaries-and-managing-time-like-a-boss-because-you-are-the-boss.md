@@ -110,7 +110,7 @@
   },
   "description": "It&#8217;s a Friday evening at 7:00 pm. My laptop is shut, and I&#8217;m done for the day. I&#8217;m ready to go out and have dinner with some friends and just one glass of totally-fine-for-my-waistline wine (or three, but who&#8217;s counting). And then it happens: the dreaded client email. &#8220;Hey, can you fix this one thing [&hellip;]",
   "pubDate": "Wed Aug 26 2015",
-  "heroImage": "/oldschool/blog-images/2424.jpg"
+  "heroImage": "/blog-images/2424.jpg"
 }
 ---
 

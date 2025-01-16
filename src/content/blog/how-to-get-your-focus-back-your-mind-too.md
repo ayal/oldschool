@@ -113,7 +113,7 @@
   },
   "description": "We are freelancers. We need to manage our time, our projects, to be our own chief financial officer, customer manager, the marketing guy and.. oh right&#8230; we also need to work for what we were hired for &#8211; to be creative. On top of all that we&#8217;ve got to do every day, our technological body [&hellip;]",
   "pubDate": "Wed Aug 27 2014",
-  "heroImage": "/oldschool/blog-images/64.jpg"
+  "heroImage": "/blog-images/64.jpg"
 }
 ---
 

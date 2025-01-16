@@ -103,7 +103,7 @@
   },
   "description": "There’s much work to do when it comes to equality between the genders in the workplace. However, I like to think about how far we’ve come, especially during this time of year when we tend to reflect on what we’re grateful for. Working women before us had so many barriers to overcome and thanks to a [&hellip;]",
   "pubDate": "Mon Nov 23 2015",
-  "heroImage": "/oldschool/blog-images/2505.jpg"
+  "heroImage": "/blog-images/2505.jpg"
 }
 ---
 

@@ -115,7 +115,7 @@
   },
   "description": "“nuANSWERS” is where we feature an actual question submitted by one of our students and the answer we gave them. This week’s question comes from KT, who wants her clients to stop being late with providing her with what she needs to complete the work. KT wrote: Dear Lior, I have a question. I often write [&hellip;]",
   "pubDate": "Tue Feb 24 2015",
-  "heroImage": "/oldschool/blog-images/1106.jpg"
+  "heroImage": "/blog-images/1106.jpg"
 }
 ---
 

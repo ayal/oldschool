@@ -112,7 +112,7 @@
   },
   "description": "When I was 23 I experimented with loneliness &#8211; I used to read a lot of Paul Auster at the time, and I wanted to see what would happen if I am really alone and avoid talking to other people for a while. So I rented an apartment in a small fishing village in the [&hellip;]",
   "pubDate": "Wed Mar 04 2015",
-  "heroImage": "/oldschool/blog-images/351.jpg"
+  "heroImage": "/blog-images/351.jpg"
 }
 ---
 

@@ -103,7 +103,7 @@
   },
   "description": "Today I’m going to share with you my best strategies for getting unexpected money from my clients, based on a real-life example. Why do I call it unexpected money? Well, because it’s money my clients weren’t planning on investing in the first place. Also because it’s a catchy title. I promise that I didn’t drag you here [&hellip;]",
   "pubDate": "Tue Sep 08 2015",
-  "heroImage": "/oldschool/blog-images/2443.jpg"
+  "heroImage": "/blog-images/2443.jpg"
 }
 ---
 

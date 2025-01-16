@@ -100,7 +100,7 @@
   },
   "description": "It&#8217;s a matter of what you give up on, and what you&#8217;re not.",
   "pubDate": "Mon Aug 08 2016",
-  "heroImage": "/oldschool/blog-images/3583.jpg"
+  "heroImage": "/blog-images/3583.jpg"
 }
 ---
 

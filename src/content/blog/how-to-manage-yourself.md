@@ -113,7 +113,7 @@
   },
   "description": "Sometimes people tell me stuff like: “I can never be a freelancer, cuz I can’t manage myself” or “I can’t work from home, there’s just too many temptations” or maybe “I don’t have enough willpower to manage myself”. Somehow I’ve got the feeling people think that when you’re a freelancer you’ve got to be a [&hellip;]",
   "pubDate": "Wed Aug 27 2014",
-  "heroImage": "/oldschool/blog-images/228.jpg"
+  "heroImage": "/blog-images/228.jpg"
 }
 ---
 

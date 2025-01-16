@@ -108,7 +108,7 @@
   },
   "description": "Do you tend to freak out when you a get a call from a new client? I used to as well, and then I learned some tricks that work like magic.  So here are classic mistakes that happen to everyone on the first call, and how you can avoid them. It&#8217;s simple. &nbsp; Some people prefer [&hellip;]",
   "pubDate": "Mon Sep 15 2014",
-  "heroImage": "/oldschool/blog-images/298.jpg"
+  "heroImage": "/blog-images/298.jpg"
 }
 ---
 

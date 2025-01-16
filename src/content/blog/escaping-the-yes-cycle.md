@@ -99,7 +99,7 @@
   },
   "description": "Have you ever been bullied into taking a project? A few years ago, after a pretty tough few months, I took a project with a design agency. The agency had offered me a full-time position a few months earlier, but I stuck to my freelance guns. When they couldn&#8217;t find someone they liked as much to [&hellip;]",
   "pubDate": "Wed Apr 05 2017",
-  "heroImage": "/oldschool/blog-images/3459.jpg"
+  "heroImage": "/blog-images/3459.jpg"
 }
 ---
 

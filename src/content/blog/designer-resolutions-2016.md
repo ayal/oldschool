@@ -106,7 +106,7 @@
   },
   "description": "New Year&#8217;s is cleansing. It&#8217;s a chance to step back from the year you&#8217;ve had and figure out what you want to change &#8212; what you promise yourself you&#8217;ll make better, or different. Reflecting ain&#8217;t easy, so we&#8217;ve called up some of our favorite designers to tell us about the year they&#8217;ve had and what they want [&hellip;]",
   "pubDate": "Mon Jan 04 2016",
-  "heroImage": "/oldschool/blog-images/2700.jpg"
+  "heroImage": "/blog-images/2700.jpg"
 }
 ---
 

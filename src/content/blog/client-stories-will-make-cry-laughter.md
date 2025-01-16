@@ -108,7 +108,7 @@
   },
   "description": "Nigntmare clients. I didn&#8217;t sign up for that when I decided to be a creative freelancer. But I guess it comes with the job. In realtime, clients can make me cry. In retrospect &#8211; they make me cry with laugher. ClientsFromHell is a super-duper-funny website that is curating stories about&#8230; well you guessed it &#8211; about [&hellip;]",
   "pubDate": "Mon Aug 04 2014",
-  "heroImage": "/oldschool/blog-images/254.jpg"
+  "heroImage": "/blog-images/254.jpg"
 }
 ---
 

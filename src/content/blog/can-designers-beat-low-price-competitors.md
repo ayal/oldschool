@@ -109,7 +109,7 @@
   },
   "description": "One of our biggest fears is that our clients will find out someone else who would be willing to do the same work, but for a lower price. The fear is then swiftly replaced by anger: “Aren’t those designers ashamed of themselves? They’re destroying the market!”. We end up trying to educate our clients that if they [&hellip;]",
   "pubDate": "Wed Dec 03 2014",
-  "heroImage": "/oldschool/blog-images/1129.jpg"
+  "heroImage": "/blog-images/1129.jpg"
 }
 ---
 

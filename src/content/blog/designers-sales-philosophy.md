@@ -108,7 +108,7 @@
   },
   "description": "I don&#8217;t like being sold to. All of those advertisements that say, buy me, buy me &#8212; that&#8217;s gross. It&#8217;s not how I like to be informed about a product, and it&#8217;s definitely not how I want to sell my services to future clients. To watch me talk about this on video, press play &#8212; I start [&hellip;]",
   "pubDate": "Sun May 22 2016",
-  "heroImage": "/oldschool/blog-images/3119.jpg"
+  "heroImage": "/blog-images/3119.jpg"
 }
 ---
 

@@ -117,7 +117,7 @@
   },
   "description": "Every time I would meet a client or ask for a raise or negotiated my salary (when I worked in a full-time position) &#8211; it was a struggle. You see, I was asking for what I thought was an honest number. Didn&#8217;t work so well&#8230; My new video will show you what I learned about [&hellip;]",
   "pubDate": "Mon Dec 28 2015",
-  "heroImage": "/oldschool/blog-images/2619.jpg"
+  "heroImage": "/blog-images/2619.jpg"
 }
 ---
 

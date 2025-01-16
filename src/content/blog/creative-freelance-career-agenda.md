@@ -103,7 +103,7 @@
   },
   "description": "Wait, what? Agenda? What are you &#8211; a politician? Nope. I&#8217;m a creative freelancer. But I believe I need an agenda behind what I do and how I do things. An agenda that will help me &#8211; and maybe you too &#8211; to build a long-lasting career that they&#8217;re happy with. [I created an Infographic so you can print it [&hellip;]",
   "pubDate": "Tue Feb 21 2017",
-  "heroImage": "/oldschool/blog-images/3389.jpg"
+  "heroImage": "/blog-images/3389.jpg"
 }
 ---
 

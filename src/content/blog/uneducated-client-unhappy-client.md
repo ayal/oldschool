@@ -102,7 +102,7 @@
   },
   "description": "It started with a lot of compliments.  My mom&#8217;s friend hired me to help rebrand her eCommerce business. She told me how much she loved my vibe, how impressed she was with my knowledge of her market, and how much she enjoyed my writing. With a background in journalism, my client, L, openly admitted to [&hellip;]",
   "pubDate": "Tue Jul 26 2016",
-  "heroImage": "/oldschool/blog-images/3211.jpg"
+  "heroImage": "/blog-images/3211.jpg"
 }
 ---
 

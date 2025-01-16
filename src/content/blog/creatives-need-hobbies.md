@@ -106,7 +106,7 @@
   },
   "description": "When you&#8217;re a freelance creative, chances are, your job is doing what you love. Congratulations! You still need to love doing something else. Doing what you love every day is a great privilege. And, chances are, you earned that! But, as is the nature of the world, anything you do for money eventually becomes work. And then [&hellip;]",
   "pubDate": "Tue Aug 02 2016",
-  "heroImage": "/oldschool/blog-images/3213.jpg"
+  "heroImage": "/blog-images/3213.jpg"
 }
 ---
 

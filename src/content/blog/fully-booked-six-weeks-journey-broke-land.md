@@ -117,7 +117,7 @@
   },
   "description": "&nbsp; What do you do when you realize you don’t know what you’re doing? An email from a potential client asking for a price quote sent me over the edge. I’m a creative. Money is good enough. Just pay me money. That was when I realized I had a big problem. I was getting paid [&hellip;]",
   "pubDate": "Mon Dec 28 2015",
-  "heroImage": "/oldschool/blog-images/2614.jpg"
+  "heroImage": "/blog-images/2614.jpg"
 }
 ---
 

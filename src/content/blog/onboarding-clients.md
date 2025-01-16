@@ -104,7 +104,7 @@
   },
   "description": "Post originally published here. Every touch point you have with a client lead is an opportunity to provide them with a remarkable onboarding experience. Based on how you deliver those experiences, it could lead to signed contracts and more exciting work in the future. You’re a creative working with clients. You’re running a clientele business, [&hellip;]",
   "pubDate": "Mon Apr 11 2016",
-  "heroImage": "/oldschool/blog-images/3042.jpg"
+  "heroImage": "/blog-images/3042.jpg"
 }
 ---
 

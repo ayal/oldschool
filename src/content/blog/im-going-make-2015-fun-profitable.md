@@ -108,7 +108,7 @@
   },
   "description": "I’m going to tell you how five years ago I changed my own life course, and how my life has been getting better and better ever since. By the time you’re done reading this you will understand how to make 2015 a better year in terms of profit, fun, and in moving forward with your [&hellip;]",
   "pubDate": "Thu Jan 15 2015",
-  "heroImage": "/oldschool/blog-images/1124.jpg"
+  "heroImage": "/blog-images/1124.jpg"
 }
 ---
 

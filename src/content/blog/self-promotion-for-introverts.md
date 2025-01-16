@@ -109,7 +109,7 @@
   },
   "description": "Once upon a time, in a magical kingdom, introverted creative freelancers lived and worked in peace. Clients communicated their projects by email once a month, with a mid-month review, and otherwise the kingdom was silent (save for the sound of keyboards and mouse clicks). The citizens were happy and well-fed. Everything was coming up Sketch. [&hellip;]",
   "pubDate": "Tue Jun 28 2016",
-  "heroImage": "/oldschool/blog-images/3184.jpg"
+  "heroImage": "/blog-images/3184.jpg"
 }
 ---
 

@@ -111,7 +111,7 @@
   },
   "description": "As a freelancer, or small business owner, it&#8217;s extremely important to get paid as soon as possible because more than likely you don&#8217;t have a Scrooge McDuck money bin to help you out. Money can be a tricky subject, and for one reason or another getting paid as a freelancer on time is something that [&hellip;]",
   "pubDate": "Mon May 18 2015",
-  "heroImage": "/oldschool/blog-images/1929.jpg"
+  "heroImage": "/blog-images/1929.jpg"
 }
 ---
 

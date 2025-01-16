@@ -104,7 +104,7 @@
   },
   "description": "Easy come, easy go, right? I don&#8217;t remember ever deciding to be a freelance writer. I don&#8217;t think I gave it much thought. Over the course of six months I moved across the world (from New York to Tel Aviv), moved apartments three times, learned a new language, made a new group of friends, and [&hellip;]",
   "pubDate": "Tue Aug 23 2016",
-  "heroImage": "/oldschool/blog-images/3269.jpg"
+  "heroImage": "/blog-images/3269.jpg"
 }
 ---
 

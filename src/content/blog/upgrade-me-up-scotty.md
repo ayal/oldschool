@@ -99,7 +99,7 @@
   },
   "description": "I’m addicted to TV shows that describe the horrible world we’re living in. Westworld, Mr. Robot, Black Mirror … There are plenty of dystopias these days, with intriguing scripts, and great plots. Watching the world goes to hell gives me pleasure.  The shows explain that it’s a horrific worl&#8230;",
   "pubDate": "Sat Oct 08 2016",
-  "heroImage": "/oldschool/blog-images/3591.jpg"
+  "heroImage": "/blog-images/3591.jpg"
 }
 ---
 

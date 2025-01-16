@@ -112,7 +112,7 @@
   },
   "description": "Google is my best friend. I ask it everything about anything. It responds quickly, relevantly and accurately to my questions. It is my one-stop-shop for knowledge, learning and problem-solving. It can help me a great deal with my personal life, with my hobbies or house-work. Even more so, as a freelancer working from home, communicating [&hellip;]",
   "pubDate": "Tue Mar 03 2015",
-  "heroImage": "/oldschool/blog-images/249.jpg"
+  "heroImage": "/blog-images/249.jpg"
 }
 ---
 

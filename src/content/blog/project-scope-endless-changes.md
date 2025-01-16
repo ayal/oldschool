@@ -99,7 +99,7 @@
   },
   "description": "Scope creep (also called requirement creep, function creep, feature creep, or kitchen sink syndrome) in project management refers to changes, continuous or uncontrolled growth in a project&#8217;s scope, at any point after the project begins. [Wikipedia] &nbsp; Scope creep is awful. We struggled with how to handle it for years at Paper Leaf. It’s a tricky balance, [&hellip;]",
   "pubDate": "Wed Apr 19 2017",
-  "heroImage": "/oldschool/blog-images/3488.jpg"
+  "heroImage": "/blog-images/3488.jpg"
 }
 ---
 

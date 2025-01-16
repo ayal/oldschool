@@ -100,7 +100,7 @@
   },
   "description": "“You should fart more”. This is how my book (it’s in Hebrew) starts. Ran Segall, my partner at The nuSchool, has a super awesome Youtube channel called Flux. He asked me if I’m willing to answer a question for him. I wasn’t ready for it. He surprised me. He asked me to give him writing &#8230;",
   "pubDate": "Mon May 08 2017",
-  "heroImage": "/oldschool/blog-images/3607.jpg"
+  "heroImage": "/blog-images/3607.jpg"
 }
 ---
 

@@ -109,7 +109,7 @@
   },
   "description": "Are you starting a new client project soon? Stop what you’re doing right now and go make a contract for that project before you do anything else. As a designer, it can be easy to jump past the initial stages of a client project and get right to designing. Usually, you’re excited about getting to [&hellip;]",
   "pubDate": "Mon May 04 2015",
-  "heroImage": "/oldschool/blog-images/1894.jpg"
+  "heroImage": "/blog-images/1894.jpg"
 }
 ---
 

@@ -112,7 +112,7 @@
   },
   "description": "Where can a single young freelancer find a handsome client with a decent budget to pay her for a design? It’s a tough world out there. Online dating sites are just terrible. So are those massive online job-hunting platforms. They give us the illusion that there are tons of options out there for us. I’m not saying [&hellip;]",
   "pubDate": "Wed Mar 18 2015",
-  "heroImage": "/oldschool/blog-images/1379.jpg"
+  "heroImage": "/blog-images/1379.jpg"
 }
 ---
 

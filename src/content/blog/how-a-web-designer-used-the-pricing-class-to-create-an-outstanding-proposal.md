@@ -117,7 +117,7 @@
   },
   "description": "&#8220;I took Lior&#8217;s advice and created a proposal as a webpage, instead of sending a boring old PDF. The reaction was &#8220;Wow!&#8221;&#8221; This is the story of Tara Hoover &#8211; a web designer who started freelancing only a few months ago &#8211; and is already mastering the way to write proposals and win projects.  I asked her [&hellip;]",
   "pubDate": "Mon Jun 22 2015",
-  "heroImage": "/oldschool/blog-images/2227.jpg"
+  "heroImage": "/blog-images/2227.jpg"
 }
 ---
 

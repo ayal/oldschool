@@ -103,7 +103,7 @@
   },
   "description": "We’re heading into a new cycle around the sun, and while that should sound exciting, what it really means is that&#8230; Tomorrow is going to hurt! New Year’s Eve is a night of champagne, confetti, and you-should-definitely-take-a-taxi &#8212; and New Year’s Day is a shitstorm of a hangover. But what if it didn’t have to [&hellip;]",
   "pubDate": "Thu Dec 31 2015",
-  "heroImage": "/oldschool/blog-images/2671.jpg"
+  "heroImage": "/blog-images/2671.jpg"
 }
 ---
 

@@ -111,7 +111,7 @@
   },
   "description": "My heart is pounding. Suddenly cleaning up the house seems like a fun task. Maybe I should take the trash out too? Anything that will keep me from sitting down in front of the computer and facing the fact I have no idea what to do. No matter how many years I’ve been doing it, [&hellip;]",
   "pubDate": "Mon Feb 02 2015",
-  "heroImage": "/oldschool/blog-images/1121.jpg"
+  "heroImage": "/blog-images/1121.jpg"
 }
 ---
 

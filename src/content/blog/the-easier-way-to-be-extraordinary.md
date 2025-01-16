@@ -100,7 +100,7 @@
   },
   "description": "To be extraordinary?!  Now that’s a big promise, Lior! Yes it is, I know. I’m not here to waste your time after all. EXTRAORINAIRE I love the word “extraordinary”. It’s an extraordinary word. It’s much better than “pompous”, “great” or “enormous” – because it gives you a h&#8230;",
   "pubDate": "Thu Jun 01 2017",
-  "heroImage": "/oldschool/blog-images/3596.jpg"
+  "heroImage": "/blog-images/3596.jpg"
 }
 ---
 

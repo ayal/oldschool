@@ -109,7 +109,7 @@
   },
   "description": "Most of us think that the only parameter that determines whether or not we win a project, is how much money we ask for it. I think differently. Equally important, is how relevant to the job you – yes, YOU, are. I think we got it all wrong – it’s not “just business”, it’s personal. [&hellip;]",
   "pubDate": "Thu Dec 11 2014",
-  "heroImage": "/oldschool/blog-images/1128.jpg"
+  "heroImage": "/blog-images/1128.jpg"
 }
 ---
 

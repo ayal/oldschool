@@ -117,7 +117,7 @@
   },
   "description": "[Scroll to the goodies] Are you a creative freelancer? Start here&#8230; We see creative people all around us living great lives: having a good work-life balance, making good money, working with great clients and creating amazing stuff. Do you think those people are more talented than you? Or have more luck? Probably not. Here’s an [&hellip;]",
   "pubDate": "Tue May 26 2015",
-  "heroImage": "/oldschool/blog-images/2009.jpg"
+  "heroImage": "/blog-images/2009.jpg"
 }
 ---
 

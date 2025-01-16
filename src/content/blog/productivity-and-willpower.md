@@ -108,7 +108,7 @@
   },
   "description": "Let&#8217;s talk productivity. Productivity only works when you have the willpower to start moving. No matter how much work piles up, without the burning fiery need to get it done, the productivity engines can&#8217;t get started. Like pita without hummus, or Chandler without Joey, productivity falls flat without willpower. Recently, my wife and her brother [&hellip;]",
   "pubDate": "Sun May 29 2016",
-  "heroImage": "/oldschool/blog-images/3138.jpg"
+  "heroImage": "/blog-images/3138.jpg"
 }
 ---
 

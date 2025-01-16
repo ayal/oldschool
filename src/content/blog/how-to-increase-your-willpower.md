@@ -112,7 +112,7 @@
   },
   "description": "Albert Einstein famously said that genius is 1% talent and 99% hard work. That’s probably true, but I’ve noticed something else about hard work: first of all, it’s not easy to do. Secondly, most people try to avoid hard work at all cost, even the talented ones. The thing about doing difficult things is that [&hellip;]",
   "pubDate": "Wed Aug 05 2015",
-  "heroImage": "/oldschool/blog-images/2033.jpg"
+  "heroImage": "/blog-images/2033.jpg"
 }
 ---
 

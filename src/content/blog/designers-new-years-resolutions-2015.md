@@ -111,7 +111,7 @@
   },
   "description": "The holidays offer us the chance to relax and rethink what we wish for ourselves for the next year. But starting with a blank page is hard, so we thought you might want to hear what other designers wish for themselves. We asked a number of our favourite super-talented, uber-awesome designers &#8220;What is your new year&#8217;s resolution?&#8221; Their answers were inspiring, thoughtful and hilarious at times. [&hellip;]",
   "pubDate": "Tue Dec 30 2014",
-  "heroImage": "/oldschool/blog-images/1126.jpg"
+  "heroImage": "/blog-images/1126.jpg"
 }
 ---
 

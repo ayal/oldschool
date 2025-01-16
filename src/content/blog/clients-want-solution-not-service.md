@@ -109,7 +109,7 @@
   },
   "description": "I had never been so terrified in my life. There I was, at one of the busiest intersections in downtown Norfolk, Virginia, and my car wouldn&#8217;t start. In the middle of the intersection. On a green light. Trying to turn left. This was sphincter-clenching-I&#8217;m-about-to-get-hit-by-three-different-cars-and-ohmygod-is-that-a-semi-truck type of panic. My car had died again and no one [&hellip;]",
   "pubDate": "Mon Jan 11 2016",
-  "heroImage": "/oldschool/blog-images/2728.jpg"
+  "heroImage": "/blog-images/2728.jpg"
 }
 ---
 

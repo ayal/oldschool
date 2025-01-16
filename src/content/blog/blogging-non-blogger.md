@@ -111,7 +111,7 @@
   },
   "description": "20I&#8217;m not a writer! Blogging is lame! I don&#8217;t have anything to say! It&#8217;s 2017, folks. The Internet is getting fuller every day. The only way to get out there is to&#8230;get out there. And the time is now. Whether you&#8217;re a natural writing talent or not, blogging doesn&#8217;t have to be time-consuming or otherwise [&hellip;]",
   "pubDate": "Tue Mar 28 2017",
-  "heroImage": "/oldschool/blog-images/3002.jpg"
+  "heroImage": "/blog-images/3002.jpg"
 }
 ---
 

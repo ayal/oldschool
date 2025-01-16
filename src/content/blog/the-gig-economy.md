@@ -109,7 +109,7 @@
   },
   "description": "We live in changing times. Since 2013, when Carl Benedikt predicted that 47% of the jobs that exist today will be automated and taken over by robots (!), there&#8217;s been mass media panic about where we&#8217;ll be when the jobpocalypse hits. In an attempt to protect humankind and preserve capitalism, one response to this fear has been [&hellip;]",
   "pubDate": "Tue Nov 08 2016",
-  "heroImage": "/oldschool/blog-images/3308.jpg"
+  "heroImage": "/blog-images/3308.jpg"
 }
 ---
 

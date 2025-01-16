@@ -110,7 +110,7 @@
   },
   "description": "Most of us, designers, assume our client cares only about the quality of our design work. While it&#8217;s true that he cares how awesome our design is, the client also cares about other things. Here are 5 things your client cares about, and how to increase your value to him. Nail these, and you&#8217;ll be able to charge more for your work.",
   "pubDate": "Mon Oct 27 2014",
-  "heroImage": "/oldschool/blog-images/459.jpg"
+  "heroImage": "/blog-images/459.jpg"
 }
 ---
 

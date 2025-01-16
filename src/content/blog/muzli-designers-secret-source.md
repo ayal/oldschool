@@ -107,6 +107,6 @@
   },
   "description": "",
   "pubDate": "Wed Dec 09 2015",
-  "heroImage": "/oldschool/blog-images/2541.jpg"
+  "heroImage": "/blog-images/2541.jpg"
 }
 ---

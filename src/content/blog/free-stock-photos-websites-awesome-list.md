@@ -108,7 +108,7 @@
   },
   "description": "All the stock photos you can eat. Galleries, tools and websites you shouldn&#8217;t miss. Why is it so freaking hard to find high quality, high-res free stock photos with no watermarks or shitty-designed websites around them? Show me the list Show me the tools I mean, great photographers should get paid for their awesome work. But the [&hellip;]",
   "pubDate": "Wed Mar 25 2015",
-  "heroImage": "/oldschool/blog-images/1502.jpg"
+  "heroImage": "/blog-images/1502.jpg"
 }
 ---
 

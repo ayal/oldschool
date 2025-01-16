@@ -86,7 +86,7 @@ function decodeHTMLEntities(encodedString: string) {
 					{
 						posts.map((post) => (
 							<li>
-								<a href={`/oldschool/blog/${post.id}/`}>
+								<a href={`/blog/${post.id}/`}>
 									<img width={720} height={360} src={post.data.heroImage} alt="" />
 									<h4 class="title">{decodeHTMLEntities(post.data.title)}</h4>
 									<p class="date">

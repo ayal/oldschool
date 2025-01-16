@@ -109,7 +109,7 @@
   },
   "description": "‘Marketing’ is the business way of saying making people like you enough to buy your product/hire you/give you money. When you’re a freelance creative, talent doesn’t sell itself. To have clients, your clients have to know you exist — so you have to do a bit of marketing. The highest-paid freelancers figured this out a [&hellip;]",
   "pubDate": "Mon Oct 31 2016",
-  "heroImage": "/oldschool/blog-images/3294.jpg"
+  "heroImage": "/blog-images/3294.jpg"
 }
 ---
 

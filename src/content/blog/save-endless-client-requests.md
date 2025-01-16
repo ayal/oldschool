@@ -114,7 +114,7 @@
   },
   "description": "[This post is now updated with even more tips and a slideshow] &#8211; “There’s one more thing I need you to do…” &#8211; “Can we add those last few things to the design before we publish?” &#8211; “I had a dream last night. We need to re-do everything!” There’s nothing I hate more than hearing my clients [&hellip;]",
   "pubDate": "Wed May 21 2014",
-  "heroImage": "/oldschool/blog-images/469.jpg"
+  "heroImage": "/blog-images/469.jpg"
 }
 ---
 

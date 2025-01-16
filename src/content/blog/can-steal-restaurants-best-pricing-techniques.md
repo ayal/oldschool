@@ -111,7 +111,7 @@
   },
   "description": "You can learn a few awesome pricing techniques just by looking at how menus are designed. When I look at restaurant menus, my brain divides into two. The primitive part, which makes salivate at the food. At the same time, there is the analytical part, which tries to work out whether or not I’m subjected to pricing [&hellip;]",
   "pubDate": "Tue Nov 25 2014",
-  "heroImage": "/oldschool/blog-images/1111.jpg"
+  "heroImage": "/blog-images/1111.jpg"
 }
 ---
 

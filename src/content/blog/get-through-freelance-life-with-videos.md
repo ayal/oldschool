@@ -124,7 +124,7 @@
   },
   "description": "&#8220;It&#8217;s the era of Video&#8221; &#8211; said Ran, my co-founder that runs a cool Vlog &#8211; &#8220;Let&#8217;s talk Freelance Life through videos!&#8221; It took me a while to listen to him. Not because I think he&#8217;s stupid &#8211; because I was afraid. I was afraid of video editing &#8211; a skill that I just don&#8217;t have. Until now. At [&hellip;]",
   "pubDate": "Wed Jul 13 2016",
-  "heroImage": "/oldschool/blog-images/3190.jpg"
+  "heroImage": "/blog-images/3190.jpg"
 }
 ---
 

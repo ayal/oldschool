@@ -112,7 +112,7 @@
   },
   "description": "Editor’s note: This guest post is written by Jeff Archibald. He is co-founder of a design agency in Edmonton called Paper Leaf, an award-winning shop focused on brand identities, websites, and interfaces. If he&#8217;s not learning, creating, speaking or herding cats, he&#8217;s partaking in one of his many other loves: coffee, typography, whisky, cycling and the mountains. [&hellip;]",
   "pubDate": "Mon Oct 20 2014",
-  "heroImage": "/oldschool/blog-images/447.jpg"
+  "heroImage": "/blog-images/447.jpg"
 }
 ---
 

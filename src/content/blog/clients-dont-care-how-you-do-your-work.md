@@ -107,7 +107,7 @@
   },
   "description": "You&#8217;re really good at what you do, you&#8217;re really talented, and you&#8217;ve got a great portfolio, so why aren&#8217;t new clients beating down your door? Many times, when we&#8217;re on an initial call with a client, we jump right in to telling the client about the features of our services instead of the benefits we [&hellip;]",
   "pubDate": "Wed Dec 02 2015",
-  "heroImage": "/oldschool/blog-images/2521.jpg"
+  "heroImage": "/blog-images/2521.jpg"
 }
 ---
 

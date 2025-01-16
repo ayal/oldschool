@@ -111,7 +111,7 @@
   },
   "description": "My girlfriend, Marisa, is a few months into her new career as a freelance copywriter and editor. She has a literature degree1 and hundreds of thousands of words under her belt. She’s written for large publications. She’s created an information product and the marketing to go with it. I’m telling you this to establish a [&hellip;]",
   "pubDate": "Tue Nov 17 2015",
-  "heroImage": "/oldschool/blog-images/2498.jpg"
+  "heroImage": "/blog-images/2498.jpg"
 }
 ---
 

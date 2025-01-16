@@ -100,7 +100,7 @@
   },
   "description": "Chances are, someone&#8217;s tried to talk you out of freelancing. Whether it&#8217;s your concerned mom or your significant other who reeeaalllly needs you to help out with the rent, freelancers aren&#8217;t known for their income stability &#8211; especially freelance creatives. We even joke about it ourselves. End of the month ramen parties, amiright? And as [&hellip;]",
   "pubDate": "Tue Sep 06 2016",
-  "heroImage": "/oldschool/blog-images/3270.jpg"
+  "heroImage": "/blog-images/3270.jpg"
 }
 ---
 

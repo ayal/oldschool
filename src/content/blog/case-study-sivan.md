@@ -110,7 +110,7 @@
   },
   "description": "The first time we met, Sivan had a glowing grin. She was carrying two overstuffed XL bags of brand new camera equipment, in preparation for a full day shooting promo videos for a local education startup. A year before, this was a dream &#8212; the equipment, the client, all of the clients. But, with some [&hellip;]",
   "pubDate": "Sun May 08 2016",
-  "heroImage": "/oldschool/blog-images/3097.jpg"
+  "heroImage": "/blog-images/3097.jpg"
 }
 ---
 

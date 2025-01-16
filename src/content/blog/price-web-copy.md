@@ -107,7 +107,7 @@
   },
   "description": "The least sexy thing a client can say is, How much will this cost? Pricing is painful. And it&#8217;s not an exact science. I&#8217;ll send you a quote by tomorrow morning, you say, and thus begins the cycle: Googling, asking friends, anonymously posting on Quora, going on Facebook, posting on Twitter, back to Google&#8230; And now [&hellip;]",
   "pubDate": "Mon Mar 21 2016",
-  "heroImage": "/oldschool/blog-images/2972.jpg"
+  "heroImage": "/blog-images/2972.jpg"
 }
 ---
 

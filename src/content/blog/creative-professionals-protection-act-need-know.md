@@ -103,7 +103,7 @@
   },
   "description": "In a few weeks, during April 2015, President Obama and the US Congress will meet to discuss the Freelance Creative Professionals Protection Act, whose purpose is to better define the work being done by creatives &#8211; designers, writers, video editors and so on &#8211; in relation to their clients. Should everything go smoothly, the FCPP Act [&hellip;]",
   "pubDate": "Wed Apr 01 2015",
-  "heroImage": "/oldschool/blog-images/1767.jpg"
+  "heroImage": "/blog-images/1767.jpg"
 }
 ---
 

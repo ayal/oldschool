@@ -111,7 +111,7 @@
   },
   "description": "If you’re starting your Google search with “best…,” you’re already in trouble. We know the struggle to find the easiest/friendliest/cheapest accounting software, font stores, time management tools, and whatever else you need &#8212; so we put together a list of resources, what we use as a team and alone to keep our brains and careers [&hellip;]",
   "pubDate": "Thu Jan 07 2016",
-  "heroImage": "/oldschool/blog-images/2729.jpg"
+  "heroImage": "/blog-images/2729.jpg"
 }
 ---
 

@@ -109,7 +109,7 @@
   },
   "description": "The holidays are coming and everyone’s on vacation. Your email inbox is as dry as the Sahara and every other message you send out gets you an automated reply: “off to the Caribbeans for a month, back January 6th.” Meanwhile you are sitting in front of your computer with a couple of hours to kill and [&hellip;]",
   "pubDate": "Mon Dec 22 2014",
-  "heroImage": "/oldschool/blog-images/1127.jpg"
+  "heroImage": "/blog-images/1127.jpg"
 }
 ---
 

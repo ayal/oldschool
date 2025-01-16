@@ -103,7 +103,7 @@
   },
   "description": "If you can’t win clients, you don’t have a business. End of story. Once a prospect inquires, how do you show them that you are the answer? How do you differentiate from the five other creatives they reached out to? I want to help you stand out in a sea of competition. Over the years, having the opportunity to work with [&hellip;]",
   "pubDate": "Tue Jan 24 2017",
-  "heroImage": "/oldschool/blog-images/3353.jpg"
+  "heroImage": "/blog-images/3353.jpg"
 }
 ---
 

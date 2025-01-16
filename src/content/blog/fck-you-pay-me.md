@@ -115,7 +115,7 @@
   },
   "description": "My mom taught me not to curse. But some people are really asking for it. Say, customers that don’t pay for the design job you delivered, in which you put so much energy. You might feel like you wanna flip a table (╯°□°）╯︵ ┻━┻  but apparently there are better ways to handle it. Here’s a video we [&hellip;]",
   "pubDate": "Tue Aug 26 2014",
-  "heroImage": "/oldschool/blog-images/67.jpg"
+  "heroImage": "/blog-images/67.jpg"
 }
 ---
 

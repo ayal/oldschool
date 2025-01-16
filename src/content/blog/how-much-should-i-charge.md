@@ -111,7 +111,7 @@
   },
   "description": "How many times did you ask yourself this question? A potential client wants your proposal for a design project. You&#8217;re sitting in front of your computer, scratching your head. You ask Google, your friends in Facebook, your Linkedin groups. You browse designers&#8217; forums. You&#8217;ve found some price lists. Are they relevant for you? Are they relevant for this [&hellip;]",
   "pubDate": "Wed Oct 08 2014",
-  "heroImage": "/oldschool/blog-images/1108.jpg"
+  "heroImage": "/blog-images/1108.jpg"
 }
 ---
 

@@ -115,7 +115,7 @@
   },
   "description": "So, you’re looking to get more clients &#8212; or even more exciting, your first clients. Welcome to the club! Today is the first day of the rest of your career. Let that sink in for a second. Do you feel that tingling in your stomach? That’s excitement. Today’s going to be a good day. Here&#8217;s [&hellip;]",
   "pubDate": "Tue Mar 15 2016",
-  "heroImage": "/oldschool/blog-images/2929.jpg"
+  "heroImage": "/blog-images/2929.jpg"
 }
 ---
 

@@ -105,7 +105,7 @@
   },
   "description": "It was 1 a.m. and I was still writing headlines over and over, sitting in bed, my hair a mess and my tea long gone. I&#8217;d promised that I would finish this tonight, and I (wrongly) assumed that I could magically work faster on a tight deadline. So of course I&#8217;d left myself only a [&hellip;]",
   "pubDate": "Tue Feb 23 2016",
-  "heroImage": "/oldschool/blog-images/2861.jpg"
+  "heroImage": "/blog-images/2861.jpg"
 }
 ---
 

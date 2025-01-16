@@ -103,7 +103,7 @@
   },
   "description": "Let’s face it, most domain names on the internet are boring. I don’t really know why that is. Maybe it’s because the process of getting a domain is too technical. Or maybe people don’t really like taking time to think of the right name. Either way, this must change… Your next domain name should be [&hellip;]",
   "pubDate": "Thu Mar 23 2017",
-  "heroImage": "/oldschool/blog-images/3433.jpg"
+  "heroImage": "/blog-images/3433.jpg"
 }
 ---
 

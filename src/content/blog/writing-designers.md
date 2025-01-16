@@ -109,7 +109,7 @@
   },
   "description": "Writing is an inevitable part of a designer’s day-to-day: preparing work proposals, composing lengthy official emails, creating copy for designs. Even though you first set out to develop a career in a visual field, soon enough you will discover that using that particular brain function is not enough, and will be forced to go literal [&hellip;]",
   "pubDate": "Mon Apr 20 2015",
-  "heroImage": "/oldschool/blog-images/1800.jpg"
+  "heroImage": "/blog-images/1800.jpg"
 }
 ---
 

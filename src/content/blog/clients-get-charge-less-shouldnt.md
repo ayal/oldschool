@@ -108,7 +108,7 @@
   },
   "description": "Have you ever walked down the street and heard a stranger whisper to you from a dark alley, “Hey, come here! I have some really low-paying design work to offer you! It’ll make you famous! You can trust me!” So many of us step into those dark alleys again and again because those sketchy strangers in [&hellip;]",
   "pubDate": "Tue Mar 01 2016",
-  "heroImage": "/oldschool/blog-images/2533.jpg"
+  "heroImage": "/blog-images/2533.jpg"
 }
 ---
 

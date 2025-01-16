@@ -114,7 +114,7 @@
   },
   "description": "Most of us creative freelancers aren’t greedy. We just want to earn a decent living. So how come so many of us are afraid to state what we really want when we negotiate for our projects? See how to conduct negotiations to get what you deserve. We are afraid of losing a job to other designers who will [&hellip;]",
   "pubDate": "Mon Mar 02 2015",
-  "heroImage": "/oldschool/blog-images/1087.jpg"
+  "heroImage": "/blog-images/1087.jpg"
 }
 ---
 

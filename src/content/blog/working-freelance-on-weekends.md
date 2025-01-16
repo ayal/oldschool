@@ -110,7 +110,7 @@
   },
   "description": "If you’re a freelancer, it’s easy to fall into the trap. For me, working all the time made me tired of what I love the most. I’ve been working freelance since 2004 (2007 full-time I guess). During this time, I alternated periods of intense work (when I ran out of money) with a very relaxed work [&hellip;]",
   "pubDate": "Thu Feb 12 2015",
-  "heroImage": "/oldschool/blog-images/1110.jpg"
+  "heroImage": "/blog-images/1110.jpg"
 }
 ---
 

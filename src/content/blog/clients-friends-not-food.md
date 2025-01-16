@@ -104,7 +104,7 @@
   },
   "description": "If you&#8217;re into children&#8217;s animated movies (like I am) you might have seen the movie Finding Nemo, which is about a little clownfish that gets lost and goes on a wild adventure. In the movie, Nemo&#8217;s dad sets out into the huge ocean, away from the safety of their anemone, to find his son. Along [&hellip;]",
   "pubDate": "Mon Apr 04 2016",
-  "heroImage": "/oldschool/blog-images/3040.jpg"
+  "heroImage": "/blog-images/3040.jpg"
 }
 ---
 

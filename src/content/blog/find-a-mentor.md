@@ -100,7 +100,7 @@
   },
   "description": "When you’re trying to build the independent career of your dreams, having a mentor to help you grow as a freelancer and achieve your goals is a no-brainer. Even if you’re confident in your creative skills and have no trouble finding clients, speaking with another experienced freelancer who’s been in your shoes before can help [&hellip;]",
   "pubDate": "Sun May 21 2017",
-  "heroImage": "/oldschool/blog-images/3500.jpg"
+  "heroImage": "/blog-images/3500.jpg"
 }
 ---
 

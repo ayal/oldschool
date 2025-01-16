@@ -106,7 +106,7 @@
   },
   "description": "You&#8217;re on the phone, head in your hands. It&#8217;s been 20 minutes and your client is still talking about the first ad that you sent over. You know it&#8217;s good. And they said they like it, but then they say something to the effect of I&#8217;m just not sure. Or the inevitable, Can we make [&hellip;]",
   "pubDate": "Wed Nov 04 2015",
-  "heroImage": "/oldschool/blog-images/2480.jpg"
+  "heroImage": "/blog-images/2480.jpg"
 }
 ---
 

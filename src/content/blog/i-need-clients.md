@@ -110,7 +110,7 @@
   },
   "description": "&#8220;Shayna, how do you find your clients?&#8221; Every single freelancer I&#8217;ve ever met, from the ones who just started to the big-league consultants, has, at some point, asked me that same question. That is, unless I beat them to it. While it&#8217;s obvious, it&#8217;s still kind of weird to say out loud that we&#8217;re all looking for new [&hellip;]",
   "pubDate": "Tue Nov 15 2016",
-  "heroImage": "/oldschool/blog-images/3312.jpg"
+  "heroImage": "/blog-images/3312.jpg"
 }
 ---
 

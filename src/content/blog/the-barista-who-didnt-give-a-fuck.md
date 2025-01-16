@@ -101,7 +101,7 @@
   },
   "description": "Creativity. We had it before we lost it.",
   "pubDate": "Tue Aug 23 2016",
-  "heroImage": "/oldschool/blog-images/3573.jpg"
+  "heroImage": "/blog-images/3573.jpg"
 }
 ---
 

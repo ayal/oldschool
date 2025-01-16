@@ -101,7 +101,7 @@
   },
   "description": "Never ask me for a relationship advice. I mean, I’m happily married to a girl I love, but I don’t think I figured it out. I feel I have no clue how this whole “love” thingy works.  Well… maybe there’s one thing I DO know about relationships. It’s more about&#8230;",
   "pubDate": "Thu Sep 08 2016",
-  "heroImage": "/oldschool/blog-images/3601.jpg"
+  "heroImage": "/blog-images/3601.jpg"
 }
 ---
 

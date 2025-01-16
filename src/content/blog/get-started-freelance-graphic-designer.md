@@ -109,7 +109,7 @@
   },
   "description": "Have you ever wondered what it takes to get started out as a freelance graphic designer? If you are thinking about venturing into the field of graphic design for yourself, then this article should prove to help you tremendously! I will be giving you a look at how I got started out in the freelancing [&hellip;]",
   "pubDate": "Thu Feb 19 2015",
-  "heroImage": "/oldschool/blog-images/1109.jpg"
+  "heroImage": "/blog-images/1109.jpg"
 }
 ---
 

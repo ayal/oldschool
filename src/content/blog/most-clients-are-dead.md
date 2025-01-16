@@ -117,7 +117,7 @@
   },
   "description": "“My target audience is everybody.” Have you ever heard someone say that? This week I met an entrepreneur in the the wellness niche who was angry that she couldn’t find a designer that “got” her. “I ask them for a logo, and they make something purple. Don’t they get that wellness isn’t just for women?! [&hellip;]",
   "pubDate": "Wed Jan 20 2016",
-  "heroImage": "/oldschool/blog-images/2764.jpg"
+  "heroImage": "/blog-images/2764.jpg"
 }
 ---
 

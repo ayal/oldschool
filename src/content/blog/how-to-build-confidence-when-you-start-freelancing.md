@@ -106,7 +106,7 @@
   },
   "description": "How do you start freelancing? It’s easy. Learn your profession, find those clients and charge them for that service! There is a slight chance you’ll face some obstacles. One of them is really tiny, not too big of a deal.. It is the fact that it is FREAKING SCARY. The number one issue I have [&hellip;]",
   "pubDate": "Tue Mar 01 2016",
-  "heroImage": "/oldschool/blog-images/1840.jpg"
+  "heroImage": "/blog-images/1840.jpg"
 }
 ---
 

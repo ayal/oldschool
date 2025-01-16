@@ -109,7 +109,7 @@
   },
   "description": "“nuANSWERS” is where we feature an actual question submitted by one of our students and the answer we gave them. This week’s question comes from Fern, who wants to know how involved you should be in setting up a website hosting for your client Fern wrote: Lior, Thank you for writing an excellent, straight forward article [&hellip;]",
   "pubDate": "Tue Mar 03 2015",
-  "heroImage": "/oldschool/blog-images/1085.jpg"
+  "heroImage": "/blog-images/1085.jpg"
 }
 ---
 

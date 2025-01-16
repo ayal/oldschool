@@ -115,7 +115,7 @@
   },
   "description": "In honor of Mental Health Awareness Week, I&#8217;m sharing my story &#8212; the behind-the-scenes life of a full-time freelancer struggling with depression, anxiety, and not losing my shit. Anyone who knows me pretty well would tell you I&#8217;m a happy person. Anyone who knows me really well knows I&#8217;m not. My narrative is punctuated with depressive episodes [&hellip;]",
   "pubDate": "Tue May 17 2016",
-  "heroImage": "/oldschool/blog-images/3128.jpg"
+  "heroImage": "/blog-images/3128.jpg"
 }
 ---
 

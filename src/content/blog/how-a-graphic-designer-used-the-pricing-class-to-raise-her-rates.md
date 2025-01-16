@@ -115,7 +115,7 @@
   },
   "description": "“She got the project!” I screamed at my girlfriend. “I knew it!” “Who? What?” My other half had no clue what I’m talking about. “Margot! Our student &#8211; the French designer from London. She’s going to create an amazing brand for her client, and she got it in the price she wanted!” My girlfriend wasn’t [&hellip;]",
   "pubDate": "Tue Jun 16 2015",
-  "heroImage": "/oldschool/blog-images/2210.jpg"
+  "heroImage": "/blog-images/2210.jpg"
 }
 ---
 

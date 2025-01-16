@@ -98,7 +98,7 @@
   },
   "description": "In May, The nuSchool had a webinar called Getting Paid What You&#8217;re Worth. Because isn&#8217;t that what freelancing is all about? These are some of the questions I was asked after the webinar. I promised to share my answers &#8212; so here they are. Enjoy them. Q: Can you charge more for an urgent or last minute [&hellip;]",
   "pubDate": "Wed Jun 15 2016",
-  "heroImage": "/oldschool/blog-images/3398.jpg"
+  "heroImage": "/blog-images/3398.jpg"
 }
 ---
 

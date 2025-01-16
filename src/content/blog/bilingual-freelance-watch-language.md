@@ -108,7 +108,7 @@
   },
   "description": "Editor’s note: This guest post is written by Jonathan Maimon. He is a bilingual freelance copywriter and internet marketer, working with a bunch of brands, as well as creating new media for Kinetis. Jonathan has spent the recent years between NY, London and Tel-Aviv. In the very little spare time he has left, Jonathan delves into music production, as can be heard on [&hellip;]",
   "pubDate": "Tue Oct 28 2014",
-  "heroImage": "/oldschool/blog-images/454.jpg"
+  "heroImage": "/blog-images/454.jpg"
 }
 ---
 

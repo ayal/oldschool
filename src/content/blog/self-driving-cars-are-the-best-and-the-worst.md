@@ -100,7 +100,7 @@
   },
   "description": "I got my driver license on Christmas 96′. Being able to play a CD of the Beatles in my mom’s old Subaru, seemed like a cutting-edge technology back then. Hardly had I known that 18 years later, cars will drive themselves. I spent a lot of time and money on my driving lessons. But hearing …",
   "pubDate": "Thu Dec 08 2016",
-  "heroImage": "/oldschool/blog-images/3587.jpg"
+  "heroImage": "/blog-images/3587.jpg"
 }
 ---
 

@@ -110,7 +110,7 @@
   },
   "description": "Most posts about productivity as a remote worker read like a how-to on turning your home into a cubicle: keep business hours, dress for work, create a &#8220;work area.&#8221; I take issue with advice like this, because it seems to point to the idea that the only way you can be as productive from home [&hellip;]",
   "pubDate": "Mon Apr 06 2015",
-  "heroImage": "/oldschool/blog-images/1755.jpg"
+  "heroImage": "/blog-images/1755.jpg"
 }
 ---
 

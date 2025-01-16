@@ -111,7 +111,7 @@
   },
   "description": "Wait, hold on. Before you come after me for being intentionally provocative with my title, and before you jump to explain that you specifically are not a liar (“not all designers!”), let me explain what I’m talking about. My title is a reference to Seth Godin’s book, All Marketers are Liars. Seth doesn’t mean to [&hellip;]",
   "pubDate": "Mon Jun 15 2015",
-  "heroImage": "/oldschool/blog-images/2034.jpg"
+  "heroImage": "/blog-images/2034.jpg"
 }
 ---
 

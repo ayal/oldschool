@@ -109,7 +109,7 @@
   },
   "description": "You wouldn&#8217;t see the &#8220;freelancer&#8221; title in my LinkedIn profile. But the truth is, I work as one since I was 17. I had my first paid project while I’m still in high school. It was a 3D design project of the Hebrew Temple of the Egyptian era. Then came an opportunity to do a freelance [&hellip;]",
   "pubDate": "Mon Nov 09 2015",
-  "heroImage": "/oldschool/blog-images/383.jpg"
+  "heroImage": "/blog-images/383.jpg"
 }
 ---
 

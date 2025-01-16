@@ -105,7 +105,7 @@
   },
   "description": "Let’s be honest : being a freelance designer or web professional is a mixture of extreme highs and devastating lows. For all the freedom it offers — for all the great and varied projects you get to work on— we’ve all experienced empty calendars and periods of self doubt. I’ve had two large freelance spells [&hellip;]",
   "pubDate": "Mon Jul 27 2015",
-  "heroImage": "/oldschool/blog-images/2383.jpg"
+  "heroImage": "/blog-images/2383.jpg"
 }
 ---
 

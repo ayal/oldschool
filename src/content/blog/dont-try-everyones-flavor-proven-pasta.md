@@ -110,7 +110,7 @@
   },
   "description": "If I say Italy, what do you think of? Right, pizza. But some of you have better taste than me, and you might have something else come to mind: Pasta. And where is pasta most popular in the world? Italy! Nah&#8230; just kidding. It&#8217;s the USA. And where there&#8217;s tons of pasta, there are dozens of flavors of pasta [&hellip;]",
   "pubDate": "Mon Dec 21 2015",
-  "heroImage": "/oldschool/blog-images/2586.jpg"
+  "heroImage": "/blog-images/2586.jpg"
 }
 ---
 

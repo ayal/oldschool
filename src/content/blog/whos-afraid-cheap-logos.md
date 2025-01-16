@@ -110,7 +110,7 @@
   },
   "description": "If there’s one thing that scares us even more than the prospect of cheaper competitors learning to design and offering it at a cheap price, it’s that someone in Silicon Valley will open a startup that can automate design &#8211; thus putting the last nail in our coffin. When companies like 99 Designs &amp; Fiverr offered super cheap [&hellip;]",
   "pubDate": "Mon Mar 09 2015",
-  "heroImage": "/oldschool/blog-images/1209.jpg"
+  "heroImage": "/blog-images/1209.jpg"
 }
 ---
 

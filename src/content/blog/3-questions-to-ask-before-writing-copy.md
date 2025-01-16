@@ -111,7 +111,7 @@
   },
   "description": "One of the toughest parts of writing copy &#8211; and writing in general &#8211; is firing up the engines. We’ve already covered how to begin writing and getting words from your head onto the page, so this time let’s go back to one step earlier &#8211; how to even know what it is you’re supposed [&hellip;]",
   "pubDate": "Mon May 25 2015",
-  "heroImage": "/oldschool/blog-images/1985.jpg"
+  "heroImage": "/blog-images/1985.jpg"
 }
 ---
 

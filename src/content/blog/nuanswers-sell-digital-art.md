@@ -112,7 +112,7 @@
   },
   "description": "“nuANSWERS” is where we feature an actual question submitted by one of our students and the answer we gave them. This week’s question comes from Rick, who is looking for tips on how to sell his digital art. Rick wrote: Hi Lior, I purchased the Pricing Class and watched all the videos.  It&#8217;s great and I&#8217;m [&hellip;]",
   "pubDate": "Wed Feb 18 2015",
-  "heroImage": "/oldschool/blog-images/1120.jpg"
+  "heroImage": "/blog-images/1120.jpg"
 }
 ---
 

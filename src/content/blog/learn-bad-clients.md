@@ -114,7 +114,7 @@
   },
   "description": "I want to write my experiences and lessons from a recent logo design project I took on, which unfortunately did not go as well as I would have hoped. I still have a good relationship with this client, and although a final design was selected and full payment was made, I am aware that unfortunately [&hellip;]",
   "pubDate": "Sun Mar 22 2015",
-  "heroImage": "/oldschool/blog-images/1377.jpg"
+  "heroImage": "/blog-images/1377.jpg"
 }
 ---
 

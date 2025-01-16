@@ -101,7 +101,7 @@
   },
   "description": "And so Jay Z was cheating on Beyoncé and I get to write a post about marketing?!",
   "pubDate": "Sat Oct 08 2016",
-  "heroImage": "/oldschool/blog-images/3580.jpg"
+  "heroImage": "/blog-images/3580.jpg"
 }
 ---
 

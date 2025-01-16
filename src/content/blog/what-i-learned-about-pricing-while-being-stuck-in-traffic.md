@@ -121,7 +121,7 @@
   },
   "description": "Can you believe that a single pricing technique has changed how much I earn? Not only that, but it made my clients happy as well. Unbelievable. Until a few years ago, I used to drive 45 minutes to work every day. I would listen to Audiobooks in my car while being stuck in traffic. Between Spanish lessons, Cooking podcasts and Medieval History, I [&hellip;]",
   "pubDate": "Fri Oct 10 2014",
-  "heroImage": "/oldschool/blog-images/1167.jpg"
+  "heroImage": "/blog-images/1167.jpg"
 }
 ---
 

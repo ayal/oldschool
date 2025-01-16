@@ -111,7 +111,7 @@
   },
   "description": "Freelance life is pretty great, but there&#8217;s one employee-life perk we haven&#8217;t managed to get over: employer-sponsored health insurance. Bummer. This means you must purchase an individual health plan to protect against unexpected (and very expensive) medical bills, and to avoid paying a government fine ($695 in 2016 for individuals). Your health plan has to fit [&hellip;]",
   "pubDate": "Thu Dec 10 2015",
-  "heroImage": "/oldschool/blog-images/2549.jpg"
+  "heroImage": "/blog-images/2549.jpg"
 }
 ---
 

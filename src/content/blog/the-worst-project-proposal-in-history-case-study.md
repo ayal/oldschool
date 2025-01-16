@@ -106,7 +106,7 @@
   },
   "description": "I&#8217;m going to tell you about the worst project proposal ever written by yours truly. By the end of this post, you&#8217;ll know exactly what NOT to do when writing proposals &#8211; saving yourself a large amount of time and money. But first &#8211; let me ask you this: do you remember your first kiss? I’ll remember mine [&hellip;]",
   "pubDate": "Sun May 31 2015",
-  "heroImage": "/oldschool/blog-images/2044.jpg"
+  "heroImage": "/blog-images/2044.jpg"
 }
 ---
 

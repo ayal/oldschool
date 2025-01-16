@@ -113,7 +113,7 @@
   },
   "description": "Here are the lessons I’ve learned that will aid you in the years to come to be a better freelance designer. 1. Work when you are at your most creative Don’t just sit there and stress about it, get up, move around, watch TV and do everything you can to switch off from the design challenges [&hellip;]",
   "pubDate": "Thu Jan 22 2015",
-  "heroImage": "/oldschool/blog-images/1123.jpg"
+  "heroImage": "/blog-images/1123.jpg"
 }
 ---
 
