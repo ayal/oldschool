@@ -5,10 +5,13 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && touch dist/.nojekyll",
+    "build-cf": "astro build --config=./astro.config.cf.mjs && touch dist/.nojekyll",
     "preview": "astro preview",
     "astro": "astro",
-    "prepub": "pnpm run build && git add . && git commit -m 'build' && git push",
-    "publish": "git subtree split --prefix=dist -b temp-branch1 && git push origin temp-branch1:gh-pages --force"
+    "prepub-gh": "pnpm run build && git add . && git commit -m 'build' && git push",
+    "prepub-cf": "pnpm run build-cf && git add . && git commit -m 'build' && git push",
+    "publish-gh": "git subtree split --prefix=dist -b temp-branch1 && git push origin temp-branch1:gh-pages --force",
+    "publish-cf": "git subtree split --prefix=dist -b temp-branch1 && git push origin temp-branch1:gh-pages-cf --force"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.4",

@@ -7,8 +7,8 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://ayal.github.io/oldschool',
-	base: '/olschool/',
+	site: 'https://thenuschool.com',
+	base: '/',
 	integrations: [mdx(), sitemap(), react(), tailwind()],
 	build: {
 		assets: 'assets'
