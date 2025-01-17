@@ -3,8 +3,8 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build && touch dist/.nojekyll",
+    "dev": "astro dev --config=./astro.config.local.mjs",
+    "build": "astro build --config=./astro.config.local.mjs && touch dist/.nojekyll",
     "build-cf": "astro build --config=./astro.config.cf.mjs && touch dist/.nojekyll",
     "preview": "astro preview",
     "astro": "astro",
